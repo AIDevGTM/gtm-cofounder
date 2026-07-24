@@ -1,10 +1,14 @@
 # The Commercial Co-Founder
 
-**10 go-to-market Agent Skills for technical AI & dev-tool founders — the commercial co-founder you don't have.**
+### For the founder building it alone.
 
-You can build anything. You freeze at *"who is this even for,"* *"why would they pay,"* and *"I shipped it and nobody came."* This is the missing half of your founding team, installed into the agent you already code in.
+If you're a technical founder pouring your own money, your nights, and your weekends into something you believe in — **pre-funding, no team, no commercial co-founder, and some days it is just plain hard** — this is for you. Especially you.
 
-Not theory. Distilled from the two best sources in developer go-to-market — **[Adam Frankl](https://thedeveloperfacingstartup.com)** (*The Developer-Facing Startup*) and **[Jakub Czakon](https://www.markepear.dev)** (*markepear.dev*) — turned into frameworks with real thresholds, decision trees, and 30-minute checklists.
+Building alone is isolating. The engineering, you can do in your sleep. It's the *other* half — **who is this even for, why would anyone pay, why did nobody come when I shipped** — that keeps you up at 2am with no one in the room to think it through with.
+
+That's what this is: **the commercial co-founder you don't have (yet)** — 10 go-to-market skills sitting in your corner, inside the agent you already code in. Not a course. Not theory. Frameworks with real thresholds and 30-minute checklists, distilled from the two sharpest minds in developer go-to-market — **[Adam Frankl](https://thedeveloperfacingstartup.com)** (*The Developer-Facing Startup*) and **[Jakub Czakon](https://www.markepear.dev)** (*markepear.dev*) — so the commercial side can feel as rigorous, and as *doable*, as the code.
+
+You don't have to figure this part out alone anymore.
 
 Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent that supports the Agent Skills spec.
 
@@ -78,11 +82,11 @@ This repo translates their frameworks into agent-runnable skills for early-stage
 
 ---
 
-## When you want a human in the loop
+## When you don't want to do it alone
 
-Skills are great at the *knowable* calls. The judgment calls — your specific ICP, your specific wedge, your specific launch — sometimes need a person who's done it across dozens of dev-tool companies.
+Skills are great at the *knowable* calls. But some days you don't need another framework — you need a person who's been in the trenches, who's seen this exact fight across dozens of dev-tool companies, and who can tell you it's going to be okay *and* what to do next.
 
-That's the day job: **[The DevTool GTM Company](https://thedevtoolgtmcompany.com)** — go-to-market advisory for AI & developer-first startups. If these skills help, a working session goes deeper.
+That's the day job: **[The DevTool GTM Company](https://thedevtoolgtmcompany.com)** — go-to-market advisory for AI & developer-first founders. Free skills for everyone; a human in your corner when the road gets steep. Either way, you're not doing this alone.
 
 ## Contributing
 
