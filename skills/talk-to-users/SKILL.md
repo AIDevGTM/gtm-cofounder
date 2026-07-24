@@ -11,11 +11,11 @@ description: Run developer customer discovery via a Technical Advisory Board (TA
 
 ## The core idea
 
-Stand up a **Technical Advisory Board**, 30-50 people who *represent your users and buyers*, not grey-haired advisors telling you how to build. You interview them, on repeat, and let their words become your positioning, roadmap, and homepage copy.
+Stand up a **Technical Advisory Board**: 30-50 people who *represent your users and buyers*, not grey-haired advisors telling you how to build. You interview them, on repeat, and let their words become your positioning, roadmap, and homepage copy.
 
 A TAB call is **not a demo and not a sales call.** It's an interview. You never mention the product.
 
-## Framework, the TAB system (Frankl)
+## Framework: the TAB system (Frankl)
 
 **Composition**
 - One+ representative of *every persona that touches the product* (see `who-is-this-for`)
@@ -32,7 +32,7 @@ A TAB call is **not a demo and not a sales call.** It's an interview. You never 
 - Lead with *their* problem, not your startup
 - Max 4 sentences
 - ~10% reply → plan ~500 outreaches for ~50 members
-- No payment, early access, influence, swag
+- No payment: early access, influence, swag
 
 Template:
 ```
@@ -40,7 +40,7 @@ Dear [Name],
 
 Your post about [specific problem] was genuinely sharp.
 
-I'm building something to attack [that problem] and I'd value your view, would
+I'm building something to attack [that problem] and I'd value your view. Would
 you consider joining my technical advisory board?
 
 If so, reply and I'll set up a short call to explain what's involved.
@@ -48,15 +48,15 @@ If so, reply and I'll set up a short call to explain what's involved.
 
 ## The 7 questions (never more than 7 in 30 min)
 
-1. **Magic wand**, *"If you could wave a magic wand and change anything about how you do [task], what would it be?"*
-2. **The stakes**, *"If we delivered that, how would it change your day / your work?"*
-3. **Why now**, *"What's different about the world now that makes this more valuable than five years ago?"*
+1. **Magic wand**: *"If you could wave a magic wand and change anything about how you do [task], what would it be?"*
+2. **The stakes**: *"If we delivered that, how would it change your day / your work?"*
+3. **Why now**: *"What's different about the world now that makes this more valuable than five years ago?"*
 4. What caused this problem in your org?
 5. What have you tried, and why did it fall short?
 6. What happens if nothing changes for another year?
 7. Where do you go to stay current on this? (who/what they trust)
 
-## Analyze, turn transcripts into assets
+## Analyze: turn transcripts into assets
 
 Highlight **complete sentences** (not fragments) into four buckets, then synthesize the top 3-5 of each, in the interviewee's exact words:
 
@@ -71,11 +71,11 @@ Those four buckets feed directly into `positioning-and-story` and `value-prop-th
 
 ## Mistakes that look reasonable
 
-- **Interviewing friends**, they're nice and useless. You need people who'll say no.
-- **Pitching mid-interview**, the moment you demo, they start being polite instead of honest.
-- **Leading questions**, "wouldn't it be great if…" gets you the answer you fished for.
-- **Batch outreach**, a templated blast to 200 people gets 200 ignores. Personalize or don't send.
-- **Asking for solutions**, users are experts in their pain, not in your product. Mine the pain.
+- **Interviewing friends**: they're nice and useless. You need people who'll say no.
+- **Pitching mid-interview**: the moment you demo, they start being polite instead of honest.
+- **Leading questions**: "wouldn't it be great if…" gets you the answer you fished for.
+- **Batch outreach**: a templated blast to 200 people gets 200 ignores. Personalize or don't send.
+- **Asking for solutions**: users are experts in their pain, not in your product. Mine the pain.
 
 ## Your next 30 minutes
 
@@ -86,5 +86,5 @@ Those four buckets feed directly into `positioning-and-story` and `value-prop-th
 - [ ] After 3 calls, fill the Pains/Gains/Jobs/Changes table with real quotes.
 
 ---
-*Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).*
-*For the judgment calls a framework can't make → [The DevTool GTM Company](https://thedevtoolgtmcompany.com).*
+Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

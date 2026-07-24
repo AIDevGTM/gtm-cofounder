@@ -5,23 +5,23 @@ description: Measure GTM with the metrics that matter (net developer retention, 
 
 # Know if it's working
 
-> The only early metric that matters is **net developer retention**. Without it, you're not running a funnel, you're running a colander.
+> The only early metric that matters is **net developer retention**. Without it, you're not running a funnel; you're running a colander.
 
 **Use this when:** you're tracking GitHub stars and pageviews and still can't answer "is GTM working?", or you're pouring effort into acquisition while new users quietly churn.
 
 ## The core idea
 
-Acquisition is worthless if users don't come back. Prove **retention** first; only then does spending on **acquisition** make sense. Most early founders optimize the top of the funnel while the bottom leaks, fix that order.
+Acquisition is worthless if users don't come back. Prove **retention** first; only then does spending on **acquisition** make sense. Most early founders optimize the top of the funnel while the bottom leaks. Fix that order.
 
-## Framework, net developer retention (Frankl)
+## Framework: net developer retention (Frankl)
 
 > Of all the developers who first used the product in **Month 1**, how many used it in **Month 2? Month 3?**
 
-- Hold it **above 100%**, meaning existing cohorts *grow* through internal referral/expansion.
-- Below solid retention, **do not focus on acquisition**, you're filling a leaky bucket.
+- Hold it **above 100%** (meaning existing cohorts *grow* through internal referral/expansion).
+- Below solid retention, **do not focus on acquisition**: you're filling a leaky bucket.
 - This single cohort question tells you more than every vanity chart combined.
 
-## Framework, the DREAM metrics (Frankl)
+## Framework: the DREAM metrics (Frankl)
 
 Measure one honest number per stage, not pageviews, not stars.
 
@@ -41,14 +41,14 @@ Measure one honest number per stage, not pageviews, not stars.
 - **Post-Series-A:** ~10% MoM
 - **First $1M ARR:** within 12 months is good, 9 is excellent
 
-## Framework, attribution philosophy (Czakon)
+## Framework: attribution philosophy (Czakon)
 
 Developer marketing is **hard to attribute and that's normal.** A dev sees your HN post, reads a tutorial, lurks for two months, then signs up direct.
 - Don't over-trust last-touch; it will tell you "direct/organic" and hide the real work.
-- Add a **"how did you hear about us?"** free-text field, self-reported attribution beats a broken model.
+- Add a **"how did you hear about us?"** free-text field. Self-reported attribution beats a broken model.
 - Judge channels on *trend* and *directional* signal, not spurious precision.
 
-## Decision tree, what to fix first
+## Decision tree: what to fix first
 
 ```
 Is month-2 cohort retention healthy (users come back)?
@@ -60,10 +60,10 @@ Is month-2 cohort retention healthy (users come back)?
 
 ## Mistakes that look reasonable
 
-- **Vanity metrics**, stars, pageviews, impressions. They feel like progress and predict nothing.
-- **Acquisition over a leaky bucket**, buying users who never return.
-- **Demanding clean attribution**, chasing a perfect model instead of acting on directional signal.
-- **Ignoring the weekend test**, a beautiful funnel that dies at first-value.
+- **Vanity metrics**: stars, pageviews, impressions. They feel like progress and predict nothing.
+- **Acquisition over a leaky bucket**: buying users who never return.
+- **Demanding clean attribution**: chasing a perfect model instead of acting on directional signal.
+- **Ignoring the weekend test**: a beautiful funnel that dies at first-value.
 
 ## Your next 30 minutes
 
@@ -73,5 +73,5 @@ Is month-2 cohort retention healthy (users come back)?
 - [ ] Add a "how did you hear about us?" field to signup this week.
 
 ---
-*Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).*
-*For the judgment calls a framework can't make → [The DevTool GTM Company](https://thedevtoolgtmcompany.com).*
+Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

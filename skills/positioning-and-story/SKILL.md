@@ -5,7 +5,7 @@ description: Build a positioning and narrative where the developer is the hero a
 
 # Positioning & story
 
-> Your story is boring without a villain. And you are not the hero of it, the developer is. You're the wise advisor who hands them a better weapon.
+> Your story is boring without a villain. And you are not the hero of it. The developer is. You're the wise advisor who hands them a better weapon.
 
 **Use this when:** your homepage explains what your product *does* before it names the problem, your positioning is interchangeable with three competitors, or nobody feels any urgency to act now.
 
@@ -20,11 +20,11 @@ Developers don't buy features; they hire a tool to defeat something that's makin
 
 No villain → no urgency → no story → no conversion.
 
-## Framework, the 3-part story (Frankl)
+## Framework: the 3-part story (Frankl)
 
-1. **Inciting event**, introduce the hero and the villain; the world changed and the hero can't stay put.
-2. **Obstacles**, a series of specific challenges, each solved with your help, best told as mini before/afters: *"Before X, we had [problem]. Now [measured result]."*
-3. **Resolution**, villain defeated (for now), specific results, hero shares the wisdom → that's your testimonial.
+1. **Inciting event**: introduce the hero and the villain; the world changed and the hero can't stay put.
+2. **Obstacles**: a series of specific challenges, each solved with your help, best told as mini before/afters: *"Before X, we had [problem]. Now [measured result]."*
+3. **Resolution**: villain defeated (for now), specific results, hero shares the wisdom → that's your testimonial.
 
 **The benchmark (EngFlow):**
 > *"Slow builds waste your time. Standard build tools can't handle today's codebases. Speed up builds now to keep engineers in flow."*
@@ -36,7 +36,7 @@ No villain → no urgency → no story → no conversion.
 
 Good villains: cloud-cost sprawl · tool fragmentation · compounding tech debt · flaky pipelines · observability gaps · manual deploys · YAML sprawl · agents you can't trust in prod.
 
-## Framework, the 4 levels of differentiation (Frankl)
+## Framework: the 4 levels of differentiation (Frankl)
 
 Compete as high up this ladder as you can. Feature wars are a race to the bottom.
 
@@ -61,11 +61,11 @@ Can you state a problem only you solve, in the user's words?
 
 ## Mistakes that look reasonable
 
-- **Product as hero**, "ShipFast helps you…" Make the developer the subject of the sentence.
-- **No villain**, all solution, no antagonist → zero urgency.
-- **"Platform"**, developers hear *months of integration and risk.* Name the specific thing it does.
-- **"Pleased to announce"**, nobody cares about your emotional state; a feature is not a story, a customer win is.
-- **Feature-matrix positioning**, a checklist vs competitors keeps you at Level 1 forever.
+- **Product as hero**: "ShipFast helps you…" Make the developer the subject of the sentence.
+- **No villain**: all solution, no antagonist → zero urgency.
+- **"Platform"**: developers hear *months of integration and risk.* Name the specific thing it does.
+- **"Pleased to announce"**: nobody cares about your emotional state; a feature is not a story, a customer win is.
+- **Feature-matrix positioning**: a checklist vs competitors keeps you at Level 1 forever.
 
 ## Your next 30 minutes
 
@@ -75,5 +75,5 @@ Can you state a problem only you solve, in the user's words?
 - [ ] Rewrite your headline so the *developer* is the subject and the *problem* comes before the product.
 
 ---
-*Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).*
-*For the judgment calls a framework can't make → [The DevTool GTM Company](https://thedevtoolgtmcompany.com).*
+Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

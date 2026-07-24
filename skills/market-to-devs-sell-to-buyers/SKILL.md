@@ -13,7 +13,7 @@ description: Turn developer love into revenue by enabling champions and choosing
 
 **Market to developers, sell to decision-makers.** Developers evaluate and adopt; buyers (CTO/VP/procurement) approve money. Your growth engine is the developer *champion* who sells internally, so your job is to make them look smart to their boss.
 
-## Framework, GTM models that work (Czakon)
+## Framework: GTM models that work (Czakon)
 
 Pick the one that fits your product and ICP; don't run all four half-heartedly.
 
@@ -26,7 +26,7 @@ Pick the one that fits your product and ICP; don't run all four half-heartedly.
 
 Most dev tools are **PLG + a sales-assist overlay** for the accounts worth a human.
 
-## Framework, enable the champion (Czakon + Frankl)
+## Framework: enable the champion (Czakon + Frankl)
 
 Give the developer what they need to sell up:
 - The **Kairos** case for their boss (weeks off a release cycle, risk reduced), see `value-prop-that-converts`.
@@ -36,7 +36,7 @@ Give the developer what they need to sell up:
 
 **Persona → sale map (Frankl):** Alpha Dev finds & advocates → VPE/SRE validate feasibility → Empowered CTO approves budget → procurement handles terms (late, enterprise only). A complex sale needs a "what's in it for me" for *each*. Nail one persona and you get great meetings and no decisions.
 
-## Decision tree, when to introduce paid
+## Decision tree: when to introduce paid
 
 ```
 Has the developer hit real, repeated value (Activation)?
@@ -46,15 +46,15 @@ Has the developer hit real, repeated value (Activation)?
          └─ NO  → trigger sales-assist: help the champion build the internal case.
 ```
 
-> **Close your first $1M yourself.** Don't hand off sales before you've done it, teaching a rep is far harder than teaching a founder who's felt the objections firsthand (Frankl).
+> **Close your first $1M yourself.** Don't hand off sales before you've done it. Teaching a rep is far harder than teaching a founder who's felt the objections firsthand (Frankl).
 
 ## Mistakes that look reasonable
 
-- **Expecting developers to have budget**, the Alpha Dev loves you and cannot pay you.
-- **Gating value too early**, a paywall before the aha moment converts curiosity into a bounce.
-- **Cold-selling the VP**, bypassing the champion; the buyer trusts their engineer, not your email.
-- **No champion enablement**, the developer wants to buy but has nothing to bring to their boss.
-- **Four GTM models at 10% each**, pick one primary motion and commit.
+- **Expecting developers to have budget**: the Alpha Dev loves you and cannot pay you.
+- **Gating value too early**: a paywall before the aha moment converts curiosity into a bounce.
+- **Cold-selling the VP**: bypassing the champion; the buyer trusts their engineer, not your email.
+- **No champion enablement**: the developer wants to buy but has nothing to bring to their boss.
+- **Four GTM models at 10% each**: pick one primary motion and commit.
 
 ## Your next 30 minutes
 
@@ -64,5 +64,5 @@ Has the developer hit real, repeated value (Activation)?
 - [ ] Define the **Activation** moment that must happen *before* you ever mention paid.
 
 ---
-*Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).*
-*For the judgment calls a framework can't make → [The DevTool GTM Company](https://thedevtoolgtmcompany.com).*
+Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

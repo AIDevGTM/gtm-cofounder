@@ -11,16 +11,16 @@ description: Get the first 50 real users through channels the founder's ICP alre
 
 ## The core idea
 
-Every developer audience has an existing **technology-discovery loop**, the specific places they already go to find new tools. Your job isn't to invent demand; it's to position yourself *inside that loop*. And your first cohort is hand-to-hand: the TAB members from `talk-to-users` are your first users.
+Every developer audience has an existing **technology-discovery loop**: the specific places they already go to find new tools. Your job isn't to invent demand; it's to position yourself *inside that loop*. And your first cohort is hand-to-hand: the TAB members from `talk-to-users` are your first users.
 
-## Framework, the top of the DREAM funnel (Frankl)
+## Framework: the top of the DREAM funnel (Frankl)
 
-- **Discovery**, be where developers look: the communities, newsletters, influencers, and searches your ICP already uses. Metric: unique humans, not pageviews.
-- **Research**, give the interested dev a next step *before they forget you*: newsletter, Discord, free tier, docs. Developers can sit in Research for months, sustain it.
+- **Discovery**: be where developers look: the communities, newsletters, influencers, and searches your ICP already uses. Metric: unique humans, not pageviews.
+- **Research**: give the interested dev a next step *before they forget you*: newsletter, Discord, free tier, docs. Developers can sit in Research for months, so sustain the relationship.
 
 Then **Evaluation** decides everything (see `know-if-its-working`): can a new dev get value **over a weekend, from docs and Stack Overflow, with no support call?** If not, more traffic just fills a leaky bucket.
 
-## Framework, channels by stage (Czakon)
+## Framework: channels by stage (Czakon)
 
 **Pre-PMF (you are here for the first 50):** unscalable, direct, high-touch.
 - The people who posted about the problem (HN/Reddit/GitHub issues/X), DM them, personally.
@@ -42,11 +42,11 @@ Is your ICP concentrated somewhere specific (a subreddit, a Discord, a conferenc
 
 ## Mistakes that look reasonable
 
-- **"Post more"**, volume without a channel thesis is noise.
-- **Paid ads pre-PMF**, you'll pay to accelerate a message that doesn't convert yet.
-- **Building a community at 5 users**, a Discord with 3 lurkers is a graveyard that signals "dead." Wait for real traction.
-- **Optimizing acquisition over a leaky bucket**, if week-2 retention is near zero, fix Evaluation/Activation first.
-- **Launching ten times, shallow**, one well-prepared launch > ten "we shipped X" tweets.
+- **"Post more"**: volume without a channel thesis is noise.
+- **Paid ads pre-PMF**: you'll pay to accelerate a message that doesn't convert yet.
+- **Building a community at 5 users**: a Discord with 3 lurkers is a graveyard that signals "dead." Wait for real traction.
+- **Optimizing acquisition over a leaky bucket**: if week-2 retention is near zero, fix Evaluation/Activation first.
+- **Launching ten times, shallow**: one well-prepared launch > ten "we shipped X" tweets.
 
 ## Your next 30 minutes
 
@@ -56,5 +56,5 @@ Is your ICP concentrated somewhere specific (a subreddit, a Discord, a conferenc
 - [ ] Confirm a new user can hit first value **in under an hour**. If not, that's the real priority.
 
 ---
-*Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).*
-*For the judgment calls a framework can't make → [The DevTool GTM Company](https://thedevtoolgtmcompany.com).*
+Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
