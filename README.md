@@ -18,14 +18,14 @@ Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent t
 
 ### Claude Code (direct)
 ```bash
-git clone https://github.com/AIDevGTM/commercial-cofounder.git
-cp -r commercial-cofounder/skills/* ~/.claude/skills/
+git clone https://github.com/AIDevGTM/gtm-cofounder.git
+cp -r gtm-cofounder/skills/* ~/.claude/skills/
 ```
 
 ### Claude Code (plugin marketplace)
 ```bash
-/plugin marketplace add AIDevGTM/commercial-cofounder
-/plugin install commercial-cofounder@commercial-cofounder
+/plugin marketplace add AIDevGTM/gtm-cofounder
+/plugin install gtm-cofounder@gtm-cofounder
 ```
 
 ### Cursor / Codex / other agents

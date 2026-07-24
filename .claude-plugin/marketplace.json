@@ -1,12 +1,12 @@
 {
-  "name": "commercial-cofounder",
+  "name": "gtm-cofounder",
   "owner": {
     "name": "Shane O'Connor",
     "url": "https://thedevtoolgtmcompany.com"
   },
   "plugins": [
     {
-      "name": "commercial-cofounder",
+      "name": "gtm-cofounder",
       "source": "./",
       "description": "10 go-to-market Agent Skills for technical AI/dev-tool founders, the commercial co-founder you don't have. Positioning, ICP, homepage, launch, pricing, distribution. Grounded in Adam Frankl and Jakub Czakon."
     }

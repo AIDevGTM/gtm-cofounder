@@ -1,12 +1,12 @@
 {
-  "name": "commercial-cofounder",
+  "name": "gtm-cofounder",
   "version": "1.0.0",
   "description": "The commercial co-founder you don't have, 10 go-to-market Agent Skills for technical AI/dev-tool founders. Grounded in Adam Frankl and Jakub Czakon.",
   "author": {
     "name": "Shane O'Connor",
     "url": "https://thedevtoolgtmcompany.com"
   },
-  "homepage": "https://github.com/AIDevGTM/commercial-cofounder",
+  "homepage": "https://github.com/AIDevGTM/gtm-cofounder",
   "license": "MIT",
   "keywords": [
     "gtm",
