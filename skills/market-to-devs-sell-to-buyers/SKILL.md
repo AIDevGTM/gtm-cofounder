@@ -7,13 +7,13 @@ description: Turn developer love into revenue by enabling champions and choosing
 
 > The developer who adopts your tool is almost never the person who pays for it. Win the developer's heart; then hand them the ammunition to win the budget conversation for you.
 
-**Use this when:** you have stars, signups, and a beloved free tier — and a revenue line of zero.
+**Use this when:** you have stars, signups, and a beloved free tier, and a revenue line of zero.
 
 ## The core idea (Czakon)
 
-**Market to developers, sell to decision-makers.** Developers evaluate and adopt; buyers (CTO/VP/procurement) approve money. Your growth engine is the developer *champion* who sells internally — so your job is to make them look smart to their boss.
+**Market to developers, sell to decision-makers.** Developers evaluate and adopt; buyers (CTO/VP/procurement) approve money. Your growth engine is the developer *champion* who sells internally, so your job is to make them look smart to their boss.
 
-## Framework — GTM models that work (Czakon)
+## Framework, GTM models that work (Czakon)
 
 Pick the one that fits your product and ICP; don't run all four half-heartedly.
 
@@ -26,17 +26,17 @@ Pick the one that fits your product and ICP; don't run all four half-heartedly.
 
 Most dev tools are **PLG + a sales-assist overlay** for the accounts worth a human.
 
-## Framework — enable the champion (Czakon + Frankl)
+## Framework, enable the champion (Czakon + Frankl)
 
 Give the developer what they need to sell up:
-- The **Kairos** case for their boss (weeks off a release cycle, risk reduced) — see `value-prop-that-converts`.
+- The **Kairos** case for their boss (weeks off a release cycle, risk reduced), see `value-prop-that-converts`.
 - A one-pager / ROI snippet they can paste into an internal thread.
-- Security/compliance answers the buyer will ask (SOC 2, data handling) — the CTO's real fears.
+- Security/compliance answers the buyer will ask (SOC 2, data handling), the CTO's real fears.
 - Proof: attributed results from peers at comparable companies.
 
 **Persona → sale map (Frankl):** Alpha Dev finds & advocates → VPE/SRE validate feasibility → Empowered CTO approves budget → procurement handles terms (late, enterprise only). A complex sale needs a "what's in it for me" for *each*. Nail one persona and you get great meetings and no decisions.
 
-## Decision tree — when to introduce paid
+## Decision tree, when to introduce paid
 
 ```
 Has the developer hit real, repeated value (Activation)?
@@ -46,15 +46,15 @@ Has the developer hit real, repeated value (Activation)?
          └─ NO  → trigger sales-assist: help the champion build the internal case.
 ```
 
-> **Close your first $1M yourself.** Don't hand off sales before you've done it — teaching a rep is far harder than teaching a founder who's felt the objections firsthand (Frankl).
+> **Close your first $1M yourself.** Don't hand off sales before you've done it, teaching a rep is far harder than teaching a founder who's felt the objections firsthand (Frankl).
 
 ## Mistakes that look reasonable
 
-- **Expecting developers to have budget** — the Alpha Dev loves you and cannot pay you.
-- **Gating value too early** — a paywall before the aha moment converts curiosity into a bounce.
-- **Cold-selling the VP** — bypassing the champion; the buyer trusts their engineer, not your email.
-- **No champion enablement** — the developer wants to buy but has nothing to bring to their boss.
-- **Four GTM models at 10% each** — pick one primary motion and commit.
+- **Expecting developers to have budget**, the Alpha Dev loves you and cannot pay you.
+- **Gating value too early**, a paywall before the aha moment converts curiosity into a bounce.
+- **Cold-selling the VP**, bypassing the champion; the buyer trusts their engineer, not your email.
+- **No champion enablement**, the developer wants to buy but has nothing to bring to their boss.
+- **Four GTM models at 10% each**, pick one primary motion and commit.
 
 ## Your next 30 minutes
 
