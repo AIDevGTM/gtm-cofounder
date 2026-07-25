@@ -1,76 +1,81 @@
 # Founder brief
 
-> Answer once. Your agent reads this before every GTM skill, so its advice is about
-> your actual business, not a textbook. Copy this file to `founder-brief.md` in your
-> project (or let the `start-here` skill fill it in by interviewing you).
+> Your agent reads this before every GTM skill, so its advice is about your actual
+> business, not a textbook. Copy this file to `founder-brief.md` in your project
+> (or let the `start-here` skill fill it in by interviewing you).
 >
-> Tag each answer `[validated]` (a real user who is not a friend told you) or
-> `[assumption]` (your best guess for now). Assumptions are fine to start with.
-> Send them to the `talk-to-users` skill to make them real.
+> Answer the **core five** to begin. That is enough to get a diagnosis and a roadmap.
+> The "Go deeper" questions are optional: fill them in over time, or let each skill
+> ask for the ones it needs. Tag each answer `[validated]` (a real user who is not a
+> friend told you) or `[assumption]` (your best guess for now). Assumptions are fine
+> to start with. Send them to the `talk-to-users` skill to make them real.
 
-## Strongest asset
-
-> The single most powerful, provable thing you have: a marquee logo, a hard number, a
-> real user quote, a live demand signal. Don't bury it. One line.
->
-
-## Product and problem
+## Core five (answer these first)
 
 1. In one plain sentence, no jargon, what does it do?
    >
 
-2. What painful problem does it kill, in the user's own words?
+2. Who exactly is it for? (role, company size and shape, technical context)
    >   `[validated | assumption]`
 
-3. What trend is making that pain worse right now? (your villain)
+3. What do they use today instead, and why you over that?
    >   `[validated | assumption]`
 
-## Who
-
-4. Who exactly adopts it? (role, company size and shape, technical context)
-   >   `[validated | assumption]`
-
-5. Who pays, if that is a different person?
-   >   `[validated | assumption]`
-
-6. Who is it clearly NOT for?
+4. Stage and traction: how many users, and do they come back?
    >
 
-7. The job they hire it for: When [situation], I want to [motivation], so I can [outcome].
-   >   `[validated | assumption]`
-
-## Market and current positioning
-
-8. What do they use today instead? (rivals or the status quo)
+5. Your single strongest asset: the most powerful, provable thing you have (a marquee logo, a hard number, a real user quote, a live demand signal).
    >
 
-9. Why you, in one line?
-   >
+---
 
-10. What does your homepage or repo description say today? (paste the actual current line, not a paraphrase)
-    >
+# Go deeper (optional, answer anytime)
 
-## Stage, motion, and focus
+> Skip these to start. Each question notes what answering it unlocks, so you only
+> invest where you want the payoff.
 
-11. Stage, and traction: how many users, and do they come back?
-    >
+## Positioning and story
 
-12. Motion: open source / PLG / inbound / sales-led / unsure?
-    >
+- What painful problem does it kill, in the user's own words? *(becomes your homepage headline and the stakes in your story)*
+  >   `[validated | assumption]`
 
-13. Where do your users already hang out and discover tools?
-    >
+- What trend is making that pain worse right now? *(this is your villain, what gives your positioning urgency)*
+  >   `[validated | assumption]`
 
-14. Which known companies or notable developers already use it, that you can name?
-    >
+- What does your homepage or repo description say today? (paste the actual line, not a paraphrase) *(lets the agent sharpen what you have instead of guessing it)*
+  >
 
-15. What are you deliberately saying no to right now? (the roadmap you're protecting, the requests you turn down)
-    >
+## Buyers and pricing
+
+- Who pays, if that is a different person from who adopts? *(lets the agent design pricing and a sales motion aimed at the real buyer)*
+  >   `[validated | assumption]`
+
+- Who is it clearly NOT for? *(a sharp "not for" makes your ICP believable)*
+  >
+
+- The job they hire it for: When [situation], I want to [motivation], so I can [outcome]. *(becomes your value proposition)*
+  >   `[validated | assumption]`
+
+## Distribution and motion
+
+- Motion: open source / PLG / inbound / sales-led / unsure? *(picks which channels and tactics fit you)*
+  >
+
+- Where do your users already hang out and discover tools? *(tells us where to launch and find your first users)*
+  >
+
+## Focus
+
+- What are you deliberately saying no to right now? (the roadmap you're protecting, the requests you turn down) *(keeps the agent from recommending work you've ruled out)*
+  >
 
 ## Evidence (be honest, this is the whole point)
 
-16. How many real users have you interviewed who are not friends?
-    >
+- Which known companies or notable developers already use it, that you can name? *(your strongest proof)*
+  >
 
-17. Which answers above are still assumptions? List them, then run `talk-to-users`.
-    >
+- How many real users have you interviewed who are not friends? *(tells the agent how much is validated versus guessed)*
+  >
+
+- Which answers above are still assumptions? List them, then run `talk-to-users`. *(routes the guesses to real evidence)*
+  >

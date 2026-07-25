@@ -11,53 +11,61 @@ description: Interview the founder once and write a founder-brief.md that every 
 
 ## The core idea
 
-Answer a short set of questions once. The agent writes them into a **`founder-brief.md`** in your project and reads it before applying any other skill. Now "sharpen your ICP" becomes *your* ICP, "find your villain" becomes *your* villain.
+Answer **five core questions** and the agent writes a **`founder-brief.md`** in your project, enough to give you a real diagnosis and a roadmap in minutes. Everything else is optional and answered as you go: each skill pulls the deeper questions it actually needs, when it needs them, and tells you what answering unlocks. So you start seeing value fast, and the brief gets richer the more you use it, instead of facing a wall of questions on day one.
 
 And the part that matters most: separate what you have **validated** (a real user who is not your friend told you) from what you are **assuming** (your best guess for now). Assumptions are completely fine to start with. They just get sent to `talk-to-users` to become real, so you never build a beautiful go-to-market on a guess.
 
 ## How to run this (for the agent)
 
-- Interview the founder conversationally, one theme at a time. Do **not** paste every question in a wall. Ask a few, listen, follow up.
+- **Ask the five core questions first, and nothing else.** The goal is a usable brief and a fast first win, not a complete interrogation. Ask them a few at a time, conversationally, and never paste a wall of questions.
+- Write the brief from those five, then move to `strategy-and-roadmap`. The founder should get a diagnosis and a next move before they answer anything optional.
+- **Pull the deeper questions just-in-time.** When a later skill needs more (positioning needs the villain, pricing needs the buyer), ask only the two or three relevant ones right then, and say what answering unlocks. Never front-load them.
 - For every substantive answer, ask: "have you heard a real user say this, or is that your read for now?" Tag it `[validated]` or `[assumption]`.
 - "Zero users interviewed" is a valid and revealing answer. Note it plainly, no judgment, and flag `talk-to-users` as the highest-priority next step.
 - Keep the founder's own words. Don't polish their pain into marketing language.
-- When done, write or update `founder-brief.md` (template below).
-- Once the brief is written, do **not** jump into a task or start prescribing work. Hand off to `strategy-and-roadmap` to turn the brief into a prioritized plan, or ask the founder what they want to tackle. Offer, never impose.
+- Once the core brief is written, do **not** jump into a task or start prescribing work. Hand off to `strategy-and-roadmap`, or ask the founder what they want to tackle. Offer, never impose.
 
-## The questions
+## The core five (answer these first)
 
-**Product and problem**
+This is the whole required intake. Answer these and the agent can already diagnose and plan.
+
 1. In one plain sentence, with no jargon, what does it do?
-2. What painful problem does it kill, in the user's own words?
-3. What trend is making that pain worse right now? (your villain)
+2. Who exactly is it for? (role, company size and shape, technical context)
+3. What do they use today instead, and why you over that?
+4. Stage and traction: how many users, and do they come back?
+5. Your single **strongest asset**: the most powerful, provable thing you have (a marquee logo, a hard number, a real user quote, a live demand signal).
 
-**Who**
-4. Who exactly adopts it? (role, company size and shape, technical context)
-5. Who pays, if that is a different person?
-6. Who is it clearly *not* for?
-7. The job they hire it for: "When [situation], I want to [motivation], so I can [outcome]."
+## Go deeper (optional, answer anytime)
 
-**Market and current positioning**
-8. What do they use today instead? (rivals or the status quo)
-9. Why you, in one line?
-10. What does your homepage or repo description say today? Paste the actual current line, not a paraphrase, so the agent reads your positioning instead of guessing it.
+Skip these to start. Each skill asks for the ones it needs, when it needs them. Every question says what answering it unlocks, so you only invest where you want the payoff.
 
-**Stage, motion, and focus**
-11. Stage, and traction: how many users, and do they come back?
-12. Motion: open source, PLG, inbound, sales-led, or unsure?
-13. Where do your users already hang out and discover tools?
-14. Which known companies or notable developers already use it, that you can name? Even a couple of recognizable logos or names is high-signal proof.
-15. What are you deliberately saying no to right now? The roadmap you're protecting, the requests you turn down. This keeps the agent from recommending work you've already decided against.
+**Positioning and story**
+- What painful problem does it kill, in the user's own words? → *becomes your homepage headline and the stakes in your story.*
+- What trend is making that pain worse right now? → *this is your villain, what gives your positioning urgency instead of just listing features.*
+- What does your homepage or repo description say today? (paste the actual line) → *lets the agent sharpen what you have instead of guessing it.*
+
+**Buyers and pricing**
+- Who pays, if that is a different person from who adopts? → *lets the agent design pricing and a sales motion aimed at the real buyer, not just the user.*
+- Who is it clearly *not* for? → *a sharp "not for" makes your ICP believable and your messaging land.*
+- The job they hire it for: "When [situation], I want to [motivation], so I can [outcome]." → *becomes your value proposition.*
+
+**Distribution and motion**
+- Motion: open source, PLG, inbound, sales-led, or unsure? → *picks which channels and tactics actually fit you.*
+- Where do your users already hang out and discover tools? → *tells us where to launch and find your first users.*
+
+**Focus**
+- What are you deliberately saying no to right now? (the roadmap you're protecting, the requests you turn down) → *keeps the agent from recommending work you've already ruled out.*
 
 **Evidence (be honest, this is the whole point)**
-16. How many real users have you interviewed who are not friends?
-17. Which answers above are still assumptions?
+- Which known companies or notable developers already use it, that you can name? → *your strongest proof; even a couple of logos does your credibility work.*
+- How many real users have you interviewed who are not friends? → *tells the agent how much of this is validated versus guessed, so nothing gets built on sand.*
+- Which answers are still assumptions? → *routes the guesses to `talk-to-users` to make them real.*
 
 ## Write the brief
 
 Save the answers to `founder-brief.md` in the founder's project root, using the template in this repo (`founder-brief.template.md`). Keep the `[validated]` / `[assumption]` tags on each answer. This file is the shared memory for every other skill.
 
-Open the brief with a one-line **Strongest asset** callout: the single most powerful, provable thing this founder has (a marquee logo, a hard number, a real user quote, a live demand signal). Founders routinely bury this under modesty or detail, and it took four rounds to surface in real sessions. Put it at the top so it anchors every downstream skill.
+Lead the brief with the **strongest asset** (core question 5) at the very top, so the single most powerful thing this founder has anchors every downstream skill. Founders routinely bury it under modesty or detail. As deeper questions get answered over time, add them to the brief under their category.
 
 ## Keep it alive
 
@@ -65,11 +73,11 @@ The brief is a living document, not a form you fill once and forget. Every time 
 
 ## Your next 30 minutes
 
-- [ ] Answer the questions. Rough and honest beats polished and fake.
-- [ ] Tag every answer `[validated]` or `[assumption]`.
+- [ ] Answer just the **core five**. Rough and honest beats polished and fake.
+- [ ] Tag each answer `[validated]` or `[assumption]`.
 - [ ] Save it as `founder-brief.md` in your project so your agent reads it.
-- [ ] If most answers are `[assumption]` (normal at the start), expect your roadmap to point at `talk-to-users` first, not more building.
-- [ ] Then run `01-strategy-and-roadmap` to turn this brief into a prioritized plan. Don't jump straight into individual skills.
+- [ ] Run `01-strategy-and-roadmap` to get your diagnosis and first move. Don't answer the optional questions yet.
+- [ ] Answer deeper questions later, only when a skill asks and tells you what it unlocks.
 
 ---
 Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
