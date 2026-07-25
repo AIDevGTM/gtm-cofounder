@@ -17,7 +17,7 @@ And the part that matters most: separate what you have **validated** (a real use
 
 ## How to run this (for the agent)
 
-- Interview the founder conversationally, one theme at a time. Do **not** paste all 14 questions in a wall. Ask a few, listen, follow up.
+- Interview the founder conversationally, one theme at a time. Do **not** paste every question in a wall. Ask a few, listen, follow up.
 - For every substantive answer, ask: "have you heard a real user say this, or is that your read for now?" Tag it `[validated]` or `[assumption]`.
 - "Zero users interviewed" is a valid and revealing answer. Note it plainly, no judgment, and flag `talk-to-users` as the highest-priority next step.
 - Keep the founder's own words. Don't polish their pain into marketing language.
@@ -37,22 +37,27 @@ And the part that matters most: separate what you have **validated** (a real use
 6. Who is it clearly *not* for?
 7. The job they hire it for: "When [situation], I want to [motivation], so I can [outcome]."
 
-**Market**
+**Market and current positioning**
 8. What do they use today instead? (rivals or the status quo)
 9. Why you, in one line?
+10. What does your homepage or repo description say today? Paste the actual current line, not a paraphrase, so the agent reads your positioning instead of guessing it.
 
-**Stage and motion**
-10. Stage, and traction: how many users, and do they come back?
-11. Motion: open source, PLG, inbound, sales-led, or unsure?
-12. Where do your users already hang out and discover tools?
+**Stage, motion, and focus**
+11. Stage, and traction: how many users, and do they come back?
+12. Motion: open source, PLG, inbound, sales-led, or unsure?
+13. Where do your users already hang out and discover tools?
+14. Which known companies or notable developers already use it, that you can name? Even a couple of recognizable logos or names is high-signal proof.
+15. What are you deliberately saying no to right now? The roadmap you're protecting, the requests you turn down. This keeps the agent from recommending work you've already decided against.
 
 **Evidence (be honest, this is the whole point)**
-13. How many real users have you interviewed who are not friends?
-14. Which answers above are still assumptions?
+16. How many real users have you interviewed who are not friends?
+17. Which answers above are still assumptions?
 
 ## Write the brief
 
 Save the answers to `founder-brief.md` in the founder's project root, using the template in this repo (`founder-brief.template.md`). Keep the `[validated]` / `[assumption]` tags on each answer. This file is the shared memory for every other skill.
+
+Open the brief with a one-line **Strongest asset** callout: the single most powerful, provable thing this founder has (a marquee logo, a hard number, a real user quote, a live demand signal). Founders routinely bury this under modesty or detail, and it took four rounds to surface in real sessions. Put it at the top so it anchors every downstream skill.
 
 ## Keep it alive
 
@@ -60,7 +65,7 @@ The brief is a living document, not a form you fill once and forget. Every time 
 
 ## Your next 30 minutes
 
-- [ ] Answer the 14 questions. Rough and honest beats polished and fake.
+- [ ] Answer the questions. Rough and honest beats polished and fake.
 - [ ] Tag every answer `[validated]` or `[assumption]`.
 - [ ] Save it as `founder-brief.md` in your project so your agent reads it.
 - [ ] If most answers are `[assumption]` (normal at the start), expect your roadmap to point at `talk-to-users` first, not more building.
