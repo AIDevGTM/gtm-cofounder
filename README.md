@@ -10,26 +10,46 @@ That's what this is: **the GTM co-founder you don't have (yet)**, 10 go-to-marke
 
 You don't have to figure this part out alone anymore.
 
+**In 2 minutes:** answer a few questions, and your agent knows your business well enough to sharpen your ICP, rewrite your homepage, or plan your launch.
+
 Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent that supports the Agent Skills spec.
 
 ---
 
-## Install
+## How to use it
 
-### Claude Code (direct)
+**Never used "skills" before? You don't need to.** These are just markdown playbooks. The "skill" part only means an agent knows when to reach for each one. Pick the path that fits.
+
+### Path 1: zero setup (30 seconds)
+
+Open any skill, copy the text, paste it into ChatGPT, Claude, or Cursor, and say:
+
+> Apply this to my product: [one line on what you're building].
+
+Start with `00-start-here`. That is the whole thing.
+
+### Path 2: hand your agent the folder (2 minutes)
+
+In Cursor or Claude Code, open this repo (or your own project with it cloned) and paste this once:
+
+> You are my GTM co-founder. Read AGENTS.md and the skills in this repo. Start with 00-start-here: ask me a few questions at a time and write a founder-brief.md. Then help me with whatever I'm stuck on, positioning, first users, launch, pricing. Be direct and specific, no fluff, and tell me the one next thing to do.
+
+### Path 3: install as real skills (they auto-trigger)
+
+**Claude Code (direct)**
 ```bash
 git clone https://github.com/AIDevGTM/gtm-cofounder.git
 cp -r gtm-cofounder/skills/* ~/.claude/skills/
 ```
 
-### Claude Code (plugin marketplace)
+**Claude Code (plugin marketplace)**
 ```bash
 /plugin marketplace add AIDevGTM/gtm-cofounder
 /plugin install gtm-cofounder@gtm-cofounder
 ```
 
-### Cursor / Codex / other agents
-Copy the `skills/` folder into your agent's skills directory. Each skill is self-contained, one folder, one `SKILL.md`, zero dependencies.
+**Cursor / Codex / other agents**
+Copy the `skills/` folder into your agent's skills directory. Each skill is self-contained: one folder, one `SKILL.md`, zero dependencies.
 
 ---
 
