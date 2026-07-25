@@ -69,7 +69,7 @@ Lead the brief with the **strongest asset** (core question 5) at the very top, s
 
 ## Keep it alive
 
-The brief is a living document, not a form you fill once and forget. Every time the founder learns something real from a user (a `talk-to-users` call, a lost deal, a piece of feedback), update the relevant line and flip its tag from `[assumption]` to `[validated]`. A brief that is mostly `[validated]` is a company that knows itself.
+The brief is a living document, not a form you fill once and forget. Every time the founder learns something real from a user (a `talk-to-users` call, a lost deal, a piece of feedback), update the relevant line and flip its tag from `[assumption]` to `[validated]`. A brief that is mostly `[validated]` is a company that knows itself. And run `market-scan` periodically to refresh what has changed *outside* the brief: a rival's rebrand, a new entrant, a shifted category.
 
 ## Your next 30 minutes
 

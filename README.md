@@ -6,7 +6,7 @@ If you're a technical founder pouring your own money, your nights, and your week
 
 Building alone is isolating. The engineering, you can do in your sleep. It's the *other* half that keeps you up at 2am, with no one in the room to think it through: **who is this even for? why would anyone pay? why did nobody come when I shipped?**
 
-That's what this is: **the GTM co-founder you don't have (yet)**, 10 go-to-market skills sitting in your corner, inside the agent you already code in. Not a course. Not theory. Frameworks with real thresholds and 30-minute checklists, distilled from the two sharpest minds in developer go-to-market, **[Adam Frankl](https://developerfacingstartup.dev/)** (*The Developer-Facing Startup*) and **[Jakub Czakon](https://www.markepear.dev)** (*markepear.dev*), so the commercial side can feel as rigorous, and as *doable*, as the code.
+That's what this is: **the GTM co-founder you don't have (yet)**, a full set of go-to-market skills sitting in your corner, inside the agent you already code in. Not a course. Not theory. Frameworks with real thresholds and 30-minute checklists, distilled from the two sharpest minds in developer go-to-market, **[Adam Frankl](https://developerfacingstartup.dev/)** (*The Developer-Facing Startup*) and **[Jakub Czakon](https://www.markepear.dev)** (*markepear.dev*), so the commercial side can feel as rigorous, and as *doable*, as the code.
 
 You don't have to figure this part out alone anymore.
 
@@ -95,6 +95,7 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 |-------|--------------------|
 | **founder-led-content** | "Marketing" feels gross, so you do none, while your competitor owns the conversation |
 | **know-if-its-working** | You have dashboards full of vanity metrics and no idea whether GTM is actually working |
+| **market-scan** | A rival just rebranded or a new tool appeared, and your positioning is answering last year's market |
 
 ---
 
