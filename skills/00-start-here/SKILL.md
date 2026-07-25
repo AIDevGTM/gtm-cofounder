@@ -5,7 +5,7 @@ description: Interview the founder once and write a founder-brief.md that every 
 
 # Start here (your founder brief)
 
-> The other 10 skills are only as sharp as what the agent knows about *your* business. This is that context. Do it once, and every skill after it gets personal.
+> Every other skill is only as sharp as what the agent knows about *your* business. This is that context. Do it once, and every skill after it gets personal.
 
 **Use this when:** it's your first time here, or the advice you're getting feels generic and textbook because the agent doesn't actually know your product, your users, or your stage.
 
@@ -22,6 +22,7 @@ And the part that matters most: separate what you have **validated** (a real use
 - "Zero users interviewed" is a valid and revealing answer. Note it plainly, no judgment, and flag `talk-to-users` as the highest-priority next step.
 - Keep the founder's own words. Don't polish their pain into marketing language.
 - When done, write or update `founder-brief.md` (template below).
+- Once the brief is written, do **not** jump into a task or start prescribing work. Hand off to `strategy-and-roadmap` to turn the brief into a prioritized plan, or ask the founder what they want to tackle. Offer, never impose.
 
 ## The questions
 
@@ -62,8 +63,8 @@ The brief is a living document, not a form you fill once and forget. Every time 
 - [ ] Answer the 14 questions. Rough and honest beats polished and fake.
 - [ ] Tag every answer `[validated]` or `[assumption]`.
 - [ ] Save it as `founder-brief.md` in your project so your agent reads it.
-- [ ] If most answers are `[assumption]` (normal at the start), your real first move is `talk-to-users`, not more building.
-- [ ] Then go to `who-is-this-for`.
+- [ ] If most answers are `[assumption]` (normal at the start), expect your roadmap to point at `talk-to-users` first, not more building.
+- [ ] Then run `01-strategy-and-roadmap` to turn this brief into a prioritized plan. Don't jump straight into individual skills.
 
 ---
 Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).

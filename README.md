@@ -10,7 +10,7 @@ That's what this is: **the GTM co-founder you don't have (yet)**, 10 go-to-marke
 
 You don't have to figure this part out alone anymore.
 
-**In 2 minutes:** answer a few questions, and your agent knows your business well enough to sharpen your ICP, rewrite your homepage, or plan your launch.
+**Answer a set of questions once (about 15 minutes), and your agent builds you a prioritized GTM roadmap, then works it with you one move at a time: positioning, first users, launch, pricing, in the order that matters for your stage.**
 
 Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent that supports the Agent Skills spec.
 
@@ -26,13 +26,13 @@ Open any skill, copy the text, paste it into ChatGPT, Claude, or Cursor, and say
 
 > Apply this to my product: [one line on what you're building].
 
-Start with `00-start-here`. That is the whole thing.
+Start with `00-start-here`, then `01-strategy-and-roadmap`. That is the spine of the whole thing.
 
 ### Path 2: hand your agent the folder (2 minutes)
 
 In Cursor or Claude Code, open this repo (or your own project with it cloned) and paste this once:
 
-> You are my GTM co-founder. Read AGENTS.md and the skills in this repo. Start with 00-start-here: ask me a few questions at a time and write a founder-brief.md. Then help me with whatever I'm stuck on, positioning, first users, launch, pricing. Be direct and specific, no fluff, and tell me the one next thing to do.
+> You are my GTM co-founder. Read AGENTS.md and the skills in this repo. Start with 00-start-here to interview me a few questions at a time and write a founder-brief.md. Then run 01-strategy-and-roadmap to turn that into a prioritized gtm-roadmap.md. From then on, work the roadmap with me one move at a time. Offer, never impose: don't start a task I haven't picked, and if I say no to something, park it and move on. Be direct and specific, no fluff, and always end by telling me the single next move.
 
 ### Path 3: install as real skills (they auto-trigger)
 
@@ -55,13 +55,16 @@ Copy the `skills/` folder into your agent's skills directory. Each skill is self
 
 ## The skills
 
-### 0 · Start here (do this first)
+### 0 · Start here: brief, then plan (do this first)
 
-The skills are only as sharp as what your agent knows about *your* business. So step 0 is a one-time **founder brief**: answer ~14 questions, and the agent writes a `founder-brief.md` it reads before every other skill. Now "sharpen your ICP" means *your* ICP and "find your villain" means *your* villain, not a textbook's. It also separates what you have **validated** with real users from what you are still **assuming**, and routes the assumptions to `talk-to-users` so your brief gets truer over time instead of ossifying a guess.
+Two one-time steps set up everything else. First, the **founder brief**: answer ~14 questions and the agent writes a `founder-brief.md` it reads before every other skill, so "sharpen your ICP" means *your* ICP and "find your villain" means *your* villain, not a textbook's. It separates what you've **validated** with real users from what you're still **assuming**, and routes the assumptions to `talk-to-users` so the brief gets truer over time instead of ossifying a guess.
+
+Then the **roadmap**: the agent turns that brief into an honest diagnosis and a prioritized, stage-aware plan in `gtm-roadmap.md`, the one Now move, what's Next, and what to park for Later. This is the hub you come back to every session, so you never stare at a dead chat wondering what to do next. It sequences the skills for you instead of leaving you to guess which one to trigger.
 
 | Skill | Reach for it when… |
 |-------|--------------------|
 | **start-here** | Setup, or the agent keeps giving generic advice because it doesn't know your business |
+| **strategy-and-roadmap** | You don't know what to work on next, or you're being handed one-off tasks that don't add up to a plan |
 
 ### 1 · Figure out who it's for
 
