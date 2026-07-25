@@ -35,6 +35,14 @@ Copy the `skills/` folder into your agent's skills directory. Each skill is self
 
 ## The skills
 
+### 0 · Start here (do this first)
+
+The skills are only as sharp as what your agent knows about *your* business. So step 0 is a one-time **founder brief**: answer ~14 questions, and the agent writes a `founder-brief.md` it reads before every other skill. Now "sharpen your ICP" means *your* ICP and "find your villain" means *your* villain, not a textbook's. It also separates what you have **validated** with real users from what you are still **assuming**, and routes the assumptions to `talk-to-users` so your brief gets truer over time instead of ossifying a guess.
+
+| Skill | Reach for it when… |
+|-------|--------------------|
+| **start-here** | Setup, or the agent keeps giving generic advice because it doesn't know your business |
+
 ### 1 · Figure out who it's for
 
 | Skill | Reach for it when… |
@@ -75,7 +83,7 @@ Every `SKILL.md` gives you **frameworks with actual thresholds** (not principles
 
 These skills stand on two people's work, go read the originals:
 
-- **Adam Frankl**, *[The Developer-Facing Startup]([https://developerfacingstartup.dev/])*. The strategy and philosophy: TAB customer discovery, the Hero/Villain/Wise-Advisor story, the DREAM funnel, differentiation levels, net developer retention.
+- **Adam Frankl**, *[The Developer-Facing Startup](https://developerfacingstartup.dev/)*. The strategy and philosophy: TAB customer discovery, the Hero/Villain/Wise-Advisor story, the DREAM funnel, differentiation levels, net developer retention.
 - **Jakub Czakon**, *[markepear.dev](https://www.markepear.dev)*. The tactical execution: homepage anatomy, developer psychology, channel playbooks (HN, Reddit, X), README/SEO, "market to developers, sell to decision-makers."
 
 This repo translates their frameworks into agent-runnable skills for early-stage founders. If it's useful, the credit is theirs; if a framework is misapplied, that's on this distillation.
