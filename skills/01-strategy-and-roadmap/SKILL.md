@@ -24,7 +24,7 @@ The other skills are moves. This is the game plan that decides which move, and w
 - **Be willing to tell them to do almost nothing.** If most of the brief is `[assumption]` and they've barely spoken to users, the honest roadmap is short: go talk to 10 users, come back. Do not pad it to look thorough.
 - **Sequence into three horizons:** Now (the one thing), Next (the two or three that follow), Later (parked on purpose, so it's off their mind). Map each item to a skill.
 - **Offer, never impose.** Present the roadmap and ask what they want to start with. Do not assign or begin a task they have not chosen. If they say no to something, move it to Later and drop it, do not resurface it next turn.
-- **Write or update `gtm-roadmap.md`** (structure below). This is the hub.
+- **Write the plan, not a copy of the brief.** `gtm-roadmap.md` is a **separate, different document** from `founder-brief.md`. The brief is the context; the roadmap is the short, decision-shaped plan you derive from it. Never re-save the brief's contents into the roadmap. If `gtm-roadmap.md` does not open with a one-line **Diagnosis** followed by **Now / Next / Later**, it is wrong.
 
 ## Stage decides the first move
 
@@ -43,7 +43,7 @@ When in doubt, the default first move for an early founder is almost always `tal
 
 ## The roadmap file
 
-Save to `gtm-roadmap.md` in the founder's project root, using `gtm-roadmap.template.md` in this repo. Keep it short and living:
+Save to `gtm-roadmap.md` in the founder's project root, using `gtm-roadmap.template.md` in this repo. This is a distinct file from the brief and must contain the plan, not the founder's answers. Keep it short and living:
 
 - **Diagnosis:** the one bottleneck, in a sentence.
 - **Now:** the single next move, the skill it maps to, and what "done" looks like.
