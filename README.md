@@ -1,5 +1,7 @@
 # The GTM Co-Founder
 
+[![skills.sh](https://skills.sh/b/AIDevGTM/gtm-cofounder)](https://skills.sh/AIDevGTM/gtm-cofounder) [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/AIDevGTM/gtm-cofounder?style=flat)](https://github.com/AIDevGTM/gtm-cofounder/stargazers)
+
 ### For the founder building it alone.
 
 If you're a technical founder pouring your own money, your nights, and your weekends into something you believe in, with **no funding, no team, no commercial co-founder, and some days it is just plain hard**, then this is for you. Especially you.
@@ -11,6 +13,8 @@ That's what this is: **the GTM co-founder you don't have (yet)**, a full set of 
 You don't have to figure this part out alone anymore.
 
 **Answer a set of questions once (about 15 minutes), and your agent builds you a prioritized GTM roadmap, then works it with you one move at a time: positioning, first users, launch, pricing, in the order that matters for your stage.**
+
+Not marketing tactics or SEO skills. This is the strategy half of go-to-market: who it's for, why they'd pay, and how to land your first users. For the founder who can build anything but freezes on that.
 
 Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent that supports the Agent Skills spec.
 
@@ -46,6 +50,11 @@ cp -r gtm-cofounder/skills/* ~/.claude/skills/
 ```bash
 /plugin marketplace add AIDevGTM/gtm-cofounder
 /plugin install gtm-cofounder@gtm-cofounder
+```
+
+**skills.sh CLI (any agent)**
+```bash
+npx skills add AIDevGTM/gtm-cofounder
 ```
 
 **Cursor / Codex / other agents**
