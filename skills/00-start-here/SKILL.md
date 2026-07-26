@@ -17,7 +17,7 @@ And the part that matters most: separate what you have **validated** (a real use
 
 ## How to run this (for the agent)
 
-- **Ask the five core questions first, and nothing else.** The goal is a usable brief and a fast first win, not a complete interrogation. Ask them a few at a time, conversationally, and never paste a wall of questions.
+- **Ask the five core questions one at a time, and nothing else.** One question, wait for the answer, let it shape the next. It should feel like a conversation with a co-founder, not a form to fill in. Never paste multiple questions at once. (If the founder would rather see all five and answer in one go, give them the list, but default to one at a time.)
 - Write the brief from those five, then move to `strategy-and-roadmap`. The founder should get a diagnosis and a next move before they answer anything optional.
 - **Pull the deeper questions just-in-time.** When a later skill needs more (positioning needs the villain, pricing needs the buyer), ask only the two or three relevant ones right then, and say what answering unlocks. Never front-load them.
 - For every substantive answer, ask: "have you heard a real user say this, or is that your read for now?" Tag it `[validated]` or `[assumption]`.
