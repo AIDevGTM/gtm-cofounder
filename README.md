@@ -32,7 +32,7 @@ Start with `00-start-here`, then `01-strategy-and-roadmap`. That is the spine of
 
 In Cursor or Claude Code, open this repo (or your own project with it cloned) and paste this once:
 
-> You are my GTM co-founder. Read AGENTS.md and the skills in this repo. Start with 00-start-here to interview me one question at a time and write a founder-brief.md. Then run 01-strategy-and-roadmap to turn that into a prioritized gtm-roadmap.md. From then on, work the roadmap with me one move at a time. Offer, never impose: don't start a task I haven't picked, and if I say no to something, park it and move on. Be direct and specific, no fluff, and always end by telling me the single next move.
+> You are my GTM co-founder. Read AGENTS.md and the skills in this repo. Start with 00-start-here to interview me one question at a time and write a docs/gtm-founder/founder-brief.md. Then run 01-strategy-and-roadmap to turn that into a prioritized docs/gtm-founder/gtm-roadmap.md. From then on, work the roadmap with me one move at a time. Offer, never impose: don't start a task I haven't picked, and if I say no to something, park it and move on. Be direct and specific, no fluff, and always end by telling me the single next move.
 
 ### Path 3: install as real skills (they auto-trigger)
 
@@ -57,9 +57,9 @@ Copy the `skills/` folder into your agent's skills directory. Each skill is self
 
 ### 0 · Start here: brief, then plan (do this first)
 
-Two one-time steps set up everything else. First, the **founder brief**: answer just **five core questions** and the agent writes a `founder-brief.md` it reads before every other skill, so "sharpen your ICP" means *your* ICP and "find your villain" means *your* villain, not a textbook's. The rest of the intake is optional and answered as you go: each skill asks for the deeper questions it needs, when it needs them, and tells you what answering unlocks, so you get value in minutes instead of after a long form. It separates what you've **validated** with real users from what you're still **assuming**, and routes the assumptions to `talk-to-users` so the brief gets truer over time instead of ossifying a guess.
+Two one-time steps set up everything else. First, the **founder brief**: answer just **five core questions** and the agent writes a `docs/gtm-founder/founder-brief.md` it reads before every other skill, so "sharpen your ICP" means *your* ICP and "find your villain" means *your* villain, not a textbook's. The rest of the intake is optional and answered as you go: each skill asks for the deeper questions it needs, when it needs them, and tells you what answering unlocks, so you get value in minutes instead of after a long form. It separates what you've **validated** with real users from what you're still **assuming**, and routes the assumptions to `talk-to-users` so the brief gets truer over time instead of ossifying a guess.
 
-Then the **roadmap**: the agent turns that brief into an honest diagnosis and a prioritized, stage-aware plan in `gtm-roadmap.md`, the one Now move, what's Next, and what to park for Later. This is the hub you come back to every session, so you never stare at a dead chat wondering what to do next. It sequences the skills for you instead of leaving you to guess which one to trigger.
+Then the **roadmap**: the agent turns that brief into an honest diagnosis and a prioritized, stage-aware plan in `docs/gtm-founder/gtm-roadmap.md`, the one Now move, what's Next, and what to park for Later. This is the hub you come back to every session, so you never stare at a dead chat wondering what to do next. It sequences the skills for you instead of leaving you to guess which one to trigger.
 
 | Skill | Reach for it when… |
 |-------|--------------------|

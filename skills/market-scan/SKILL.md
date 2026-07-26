@@ -1,17 +1,17 @@
 ---
 name: market-scan
-description: Refresh the founder's competitive and market context. Re-scan named rivals and the category for what changed since the brief was written (rebrands, repositioning, new entrants, pricing shifts, renamed categories) and update founder-brief.md and the roadmap with anything that moves positioning. Use on a cadence, or whenever a competitor rebrands, a new tool appears, or the founder senses the market has shifted under them.
+description: Refresh the founder's competitive and market context. Re-scan named rivals and the category for what changed since the brief was written (rebrands, repositioning, new entrants, pricing shifts, renamed categories) and update docs/gtm-founder/founder-brief.md and the roadmap with anything that moves positioning. Use on a cadence, or whenever a competitor rebrands, a new tool appears, or the founder senses the market has shifted under them.
 ---
 
 # Market scan (keep your read current)
 
 > Positioning rots. The competitor you sized up six months ago has since rebranded, raised, repriced, or renamed the category. This is the habit that keeps your brief honest about the world outside it.
 
-**Use this when:** a rival just rebranded or repositioned, a new tool is getting attention in your space, your `founder-brief.md` competitor answers are more than a quarter old, or you just have the feeling the ground moved and your messaging is answering last year's market.
+**Use this when:** a rival just rebranded or repositioned, a new tool is getting attention in your space, your `docs/gtm-founder/founder-brief.md` competitor answers are more than a quarter old, or you just have the feeling the ground moved and your messaging is answering last year's market.
 
 ## The core idea
 
-Your `founder-brief.md` captured the market as it was the day you wrote it. Markets don't hold still. A scan re-checks the outside world against your brief and surfaces the deltas: what changed, and which changes actually threaten or help your positioning. Most don't matter. The scan's job is to find the two or three that do, not to produce a competitor spreadsheet.
+Your `docs/gtm-founder/founder-brief.md` captured the market as it was the day you wrote it. Markets don't hold still. A scan re-checks the outside world against your brief and surfaces the deltas: what changed, and which changes actually threaten or help your positioning. Most don't matter. The scan's job is to find the two or three that do, not to produce a competitor spreadsheet.
 
 ## Before you start: can your agent see the web?
 
@@ -20,11 +20,11 @@ Your `founder-brief.md` captured the market as it was the day you wrote it. Mark
 
 ## How to run this (for the agent)
 
-- **Start from the brief.** Read `founder-brief.md`: the rivals ("what do they use instead"), the "why you", the villain, and the current positioning line. That's your baseline to compare against.
+- **Start from the brief.** Read `docs/gtm-founder/founder-brief.md`: the rivals ("what do they use instead"), the "why you", the villain, and the current positioning line. That's your baseline to compare against.
 - **Scan the named rivals first, then the category.** For each competitor in the brief, check: homepage headline and positioning, pricing, any rebrand or renamed category, funding or acquisition, and new capabilities that erase the founder's wedge. Then scan for new entrants and category-level shifts (a term everyone suddenly uses, a platform move, an AI or agent shift).
 - **Report deltas, not descriptions.** Do not summarize each competitor. Say what *changed* since the brief, and for each change, whether it strengthens, threatens, or is irrelevant to the founder's positioning. Rank by "does this move our position."
 - **Tie every real change to an action.** A rival adopting the founder's language means the wedge is eroding: route to `positioning-and-story`. A new pricing norm means revisit `market-to-devs-sell-to-buyers`. A dead competitor means an opening. No action, no reason to flag it.
-- **Update the brief and roadmap.** Rewrite the affected lines in `founder-brief.md` (rivals, why-you, villain, positioning) with today's reality and the date, and add any positioning move it triggers to `gtm-roadmap.md`. Keep the tags honest: a competitor's public claim is `[assumption]` until you have checked it is real.
+- **Update the brief and roadmap.** Rewrite the affected lines in `docs/gtm-founder/founder-brief.md` (rivals, why-you, villain, positioning) with today's reality and the date, and add any positioning move it triggers to `docs/gtm-founder/gtm-roadmap.md`. Keep the tags honest: a competitor's public claim is `[assumption]` until you have checked it is real.
 
 ## What actually matters (and what doesn't)
 
@@ -49,10 +49,10 @@ Noise to ignore:
 ## Your next 30 minutes
 
 - [ ] Tell your agent which mode you're in (it browses, or you paste).
-- [ ] List the rivals from your `founder-brief.md`. Scan each for a rebrand, repricing, or repositioning since you wrote it.
+- [ ] List the rivals from your `docs/gtm-founder/founder-brief.md`. Scan each for a rebrand, repricing, or repositioning since you wrote it.
 - [ ] Write down only the changes that touch your wedge. Ignore the cosmetic ones.
 - [ ] For each real change, mark it strengthens / threatens / irrelevant, and the one action it triggers.
-- [ ] Update the affected lines in `founder-brief.md` (with the date) and add any positioning move to `gtm-roadmap.md`.
+- [ ] Update the affected lines in `docs/gtm-founder/founder-brief.md` (with the date) and add any positioning move to `docs/gtm-founder/gtm-roadmap.md`.
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).

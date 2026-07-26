@@ -1,6 +1,6 @@
 # GTM roadmap
 
-> Your plan, not a pile of tactics. Your agent writes this from your `founder-brief.md`
+> Your plan, not a pile of tactics. Your agent writes this from your `docs/gtm-founder/founder-brief.md`
 > (via the `strategy-and-roadmap` skill) and reads it at the start of every session, so
 > you always know the one next move. Keep it short. Update it as you learn.
 

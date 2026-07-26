@@ -1,6 +1,6 @@
 ---
 name: start-here
-description: Interview the founder once and write a founder-brief.md that every other skill reads first, so the advice is about their real business, not a textbook. Use this before anything else, or whenever the agent lacks context on the founder's product, ICP, market, or stage, or is giving generic GTM advice.
+description: Interview the founder once and write a founder brief at docs/gtm-founder/founder-brief.md that every other skill reads first, so the advice is about their real business, not a textbook. Use this before anything else, or whenever the agent lacks context on the founder's product, ICP, market, or stage, or is giving generic GTM advice.
 ---
 
 # Start here (your founder brief)
@@ -11,7 +11,7 @@ description: Interview the founder once and write a founder-brief.md that every 
 
 ## The core idea
 
-Answer **five core questions** and the agent writes a **`founder-brief.md`** in your project, enough to give you a real diagnosis and a roadmap in minutes. Everything else is optional and answered as you go: each skill pulls the deeper questions it actually needs, when it needs them, and tells you what answering unlocks. So you start seeing value fast, and the brief gets richer the more you use it, instead of facing a wall of questions on day one.
+Answer **five core questions** and the agent writes a **`docs/gtm-founder/founder-brief.md`** in your project, enough to give you a real diagnosis and a roadmap in minutes. Everything else is optional and answered as you go: each skill pulls the deeper questions it actually needs, when it needs them, and tells you what answering unlocks. So you start seeing value fast, and the brief gets richer the more you use it, instead of facing a wall of questions on day one.
 
 And the part that matters most: separate what you have **validated** (a real user who is not your friend told you) from what you are **assuming** (your best guess for now). Assumptions are completely fine to start with. They just get sent to `talk-to-users` to become real, so you never build a beautiful go-to-market on a guess.
 
@@ -63,7 +63,7 @@ Skip these to start. Each skill asks for the ones it needs, when it needs them. 
 
 ## Write the brief
 
-Save the answers to `founder-brief.md` in the founder's project root, using the template in this repo (`founder-brief.template.md`). Keep the `[validated]` / `[assumption]` tags on each answer. This file is the shared memory for every other skill.
+Save the answers to `docs/gtm-founder/founder-brief.md` in the founder's project (create the `docs/gtm-founder/` folder if it does not exist), using the template in this repo (`founder-brief.template.md`). Keep the `[validated]` / `[assumption]` tags on each answer. This file is the shared memory for every other skill.
 
 Lead the brief with the **strongest asset** (core question 5) at the very top, so the single most powerful thing this founder has anchors every downstream skill. Founders routinely bury it under modesty or detail. As deeper questions get answered over time, add them to the brief under their category.
 
@@ -75,7 +75,7 @@ The brief is a living document, not a form you fill once and forget. Every time 
 
 - [ ] Answer just the **core five**. Rough and honest beats polished and fake.
 - [ ] Tag each answer `[validated]` or `[assumption]`.
-- [ ] Save it as `founder-brief.md` in your project so your agent reads it.
+- [ ] Save it as `docs/gtm-founder/founder-brief.md` in your project so your agent reads it.
 - [ ] Run `01-strategy-and-roadmap` to get your diagnosis and first move. Don't answer the optional questions yet.
 - [ ] Answer deeper questions later, only when a skill asks and tells you what it unlocks.
 
