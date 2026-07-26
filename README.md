@@ -6,7 +6,7 @@ If you're a technical founder pouring your own money, your nights, and your week
 
 Building alone is isolating. The engineering, you can do in your sleep. It's the *other* half that keeps you up at 2am, with no one in the room to think it through: **who is this even for? why would anyone pay? why did nobody come when I shipped?**
 
-That's what this is: **the GTM co-founder you don't have (yet)**, a full set of go-to-market skills sitting in your corner, inside the agent you already code in. Not a course. Not theory. Frameworks with real thresholds and 30-minute checklists, built from years of selling and advising developer tools, sharpened by the sharpest thinking in the field (**[Adam Frankl](https://developerfacingstartup.dev/)** and **[Jakub Czakon](https://www.markepear.dev)**), and pressure-tested by founders who used it in the trenches, so the commercial side can feel as rigorous, and as *doable*, as the code.
+That's what this is: **the GTM co-founder you don't have (yet)**, a full set of go-to-market skills sitting in your corner, inside the agent you already code in. Not a course. Frameworks with real numbers and concrete next steps, not theory, built from years of selling and advising developer tools, sharpened by the sharpest thinking in the field (**[Adam Frankl](https://developerfacingstartup.dev/)** and **[Jakub Czakon](https://www.markepear.dev)**), and pressure-tested by founders who used it in the trenches, so the commercial side can feel as rigorous, and as *doable*, as the code.
 
 You don't have to figure this part out alone anymore.
 
@@ -125,7 +125,7 @@ Where a framework is theirs, the credit is theirs. Where it holds up in practice
 
 Skills are great at the *knowable* calls. But some days you don't need another framework, you need a person who's been in the trenches, who's seen this exact fight across dozens of dev-tool companies, and who can tell you it's going to be okay *and* what to do next.
 
-That's the day job: **[The DevTool GTM Company](https://thedevtoolgtmcompany.com)**, go-to-market advisory for AI & developer-first founders. Free skills for everyone; a human in your corner when the road gets steep. Either way, you're not doing this alone.
+That's the day job: **[The DevTool GTM Company](https://thedevtoolgtmcompany.com)**, my go-to-market advisory for AI and developer-first founders, plus fractional GTM work with **[QC Growth](https://qcgrowth.com)**. Free skills for everyone; a human in your corner when the road gets steep. Either way, you're not doing this alone.
 
 ## Contributing
 
