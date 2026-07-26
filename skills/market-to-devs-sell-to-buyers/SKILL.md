@@ -64,5 +64,5 @@ Has the developer hit real, repeated value (Activation)?
 - [ ] Define the **Activation** moment that must happen *before* you ever mention paid.
 
 ---
-Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
 When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

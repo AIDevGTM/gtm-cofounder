@@ -6,7 +6,7 @@ If you're a technical founder pouring your own money, your nights, and your week
 
 Building alone is isolating. The engineering, you can do in your sleep. It's the *other* half that keeps you up at 2am, with no one in the room to think it through: **who is this even for? why would anyone pay? why did nobody come when I shipped?**
 
-That's what this is: **the GTM co-founder you don't have (yet)**, a full set of go-to-market skills sitting in your corner, inside the agent you already code in. Not a course. Not theory. Frameworks with real thresholds and 30-minute checklists, distilled from the two sharpest minds in developer go-to-market, **[Adam Frankl](https://developerfacingstartup.dev/)** (*The Developer-Facing Startup*) and **[Jakub Czakon](https://www.markepear.dev)** (*markepear.dev*), so the commercial side can feel as rigorous, and as *doable*, as the code.
+That's what this is: **the GTM co-founder you don't have (yet)**, a full set of go-to-market skills sitting in your corner, inside the agent you already code in. Not a course. Not theory. Frameworks with real thresholds and 30-minute checklists, built from years of selling and advising developer tools, sharpened by the sharpest thinking in the field (**[Adam Frankl](https://developerfacingstartup.dev/)** and **[Jakub Czakon](https://www.markepear.dev)**), and pressure-tested by founders who used it in the trenches, so the commercial side can feel as rigorous, and as *doable*, as the code.
 
 You don't have to figure this part out alone anymore.
 
@@ -103,14 +103,21 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 
 Every `SKILL.md` gives you **frameworks with actual thresholds** (not principles), **decision trees** for the calls that stall technical founders, **the mistakes that look reasonable but quietly kill you**, real examples, and a **checklist you can run in the next 30 minutes**. Written in a founder's language, direct, specific, allergic to fluff.
 
-## Credit where it's due
+## Where this comes from
 
-These skills stand on two people's work, go read the originals:
+The spine of this pack is my own experience selling and advising developer tools: years as an enterprise and founding account executive, and advising early-stage dev-tool founders through exactly the fights these skills cover. That lived experience is what most of this is.
 
-- **Adam Frankl**, *[The Developer-Facing Startup](https://developerfacingstartup.dev/)*. The strategy and philosophy: TAB customer discovery, the Hero/Villain/Wise-Advisor story, the DREAM funnel, differentiation levels, net developer retention.
-- **Jakub Czakon**, *[markepear.dev](https://www.markepear.dev)*. The tactical execution: homepage anatomy, developer psychology, channel playbooks (HN, Reddit, X), README/SEO, "market to developers, sell to decision-makers."
+It's sharpened by the two people who have shaped developer go-to-market thinking the most, and their work is worth reading in full:
 
-This repo translates their frameworks into agent-runnable skills for early-stage founders. If it's useful, the credit is theirs; if a framework is misapplied, that's on this distillation.
+- **Adam Frankl**, *[The Developer-Facing Startup](https://developerfacingstartup.dev/)*. Strategy and philosophy: TAB customer discovery, the Hero/Villain/Wise-Advisor story, the DREAM funnel, differentiation levels, net developer retention.
+- **Jakub Czakon**, *[markepear.dev](https://www.markepear.dev)*. Tactical execution: homepage anatomy, developer psychology, channel playbooks (HN, Reddit, X), README/SEO, "market to developers, sell to decision-makers."
+
+And it was pressure-tested by founders who used it as design partners and made it sharper:
+
+- **Lubos**, founder of *[hey/api](https://heyapi.dev)*
+- **Thibault and Max**, cofounders of *[OpenStatus](https://openstatus.dev)*
+
+Where a framework is theirs, the credit is theirs. Where it holds up in practice, that's the founders who tested it. Where it misses, that's on me.
 
 ---
 

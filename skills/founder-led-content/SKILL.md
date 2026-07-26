@@ -55,5 +55,5 @@ Do you have a real, contrarian-but-true opinion about your problem space?
 - [ ] Put your problem's real keywords into the repo **name, description, and topics**.
 
 ---
-Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
 When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

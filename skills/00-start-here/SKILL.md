@@ -80,5 +80,5 @@ The brief is a living document, not a form you fill once and forget. Every time 
 - [ ] Answer deeper questions later, only when a skill asks and tells you what it unlocks.
 
 ---
-Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
 When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

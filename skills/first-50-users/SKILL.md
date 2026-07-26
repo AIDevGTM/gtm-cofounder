@@ -56,5 +56,5 @@ Is your ICP concentrated somewhere specific (a subreddit, a Discord, a conferenc
 - [ ] Confirm a new user can hit first value **in under an hour**. If not, that's the real priority.
 
 ---
-Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
 When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

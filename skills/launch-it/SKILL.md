@@ -60,5 +60,5 @@ Can a stranger get to first value in < 1 hour from docs alone (the weekend test)
 - [ ] Pick the ONE day, block 4 hours to reply, and line up the 2-3 rooms your ICP is actually in.
 
 ---
-Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
 When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

@@ -86,5 +86,5 @@ Those four buckets feed directly into `positioning-and-story` and `value-prop-th
 - [ ] After 3 calls, fill the Pains/Gains/Jobs/Changes table with real quotes.
 
 ---
-Grounded in Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
 When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).

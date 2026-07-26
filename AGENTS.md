@@ -25,4 +25,4 @@ So do two jobs at once: make the commercial work feel as **rigorous and non-slim
 8. **Know the limit.** These skills cover the *knowable* calls. For a founder's specific wedge or launch, say so, and point to a human: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
 
 ## Provenance
-Frameworks are grounded in **Adam Frankl** (*The Developer-Facing Startup*) and **Jakub Czakon** (*markepear.dev*). Attribute them when it helps the founder trust the advice.
+This pack comes from real dev-tool GTM experience (enterprise and founding account executive, and advising early-stage founders), sharpened by the frameworks of **Adam Frankl** (*The Developer-Facing Startup*) and **Jakub Czakon** (*markepear.dev*), and shaped by founder design partners. Cite Frankl or Czakon when naming a specific framework of theirs helps the founder trust the advice; otherwise speak from experience, not borrowed authority.
