@@ -125,7 +125,12 @@ Where a framework is theirs, the credit is theirs. Where it holds up in practice
 
 Skills are great at the *knowable* calls. But some days you don't need another framework, you need a person who's been in the trenches, who's seen this exact fight across dozens of dev-tool companies, and who can tell you it's going to be okay *and* what to do next.
 
-That's the day job: **[The DevTool GTM Company](https://thedevtoolgtmcompany.com)**, my go-to-market advisory for AI and developer-first founders, plus fractional GTM work with **[QC Growth](https://qcgrowth.com)**. Free skills for everyone; a human in your corner when the road gets steep. Either way, you're not doing this alone.
+That's the day job, and it comes in two shapes:
+
+- **[The DevTool GTM Company](https://thedevtoolgtmcompany.com)** is mine. It's where I work with founders at exactly your stage: very early, often pre-funding, on the strategy and positioning that gets you off the ground. If this pack is helping, that's the human version of it.
+- With **[QC Growth](https://qcgrowth.com)** I work with more established teams: seed through Series A and B, including a16z and Sequoia-backed companies, where we do the whole thing: strategy, execution, GTM engineering, and operations.
+
+Free skills for everyone; a human in your corner when the road gets steep. Either way, you're not doing this alone.
 
 ## Contributing
 
