@@ -1,7 +1,7 @@
 # Founder brief
 
 > Your agent reads this before every GTM skill, so its advice is about your actual
-> business, not a textbook. Copy this file to `founder-brief.md` in your project
+> business, not a textbook. Copy this file to `docs/gtm-cofounder/founder-brief.md` in your project
 > (or let the `start-here` skill fill it in by interviewing you).
 >
 > Answer the **core five** to begin. That is enough to get a diagnosis and a roadmap.
