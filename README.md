@@ -97,6 +97,7 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 | **first-50-users** | You shipped, tweeted once, and nobody came, and you don't know which channel to even try |
 | **launch-it** | You're sitting on a Show HN / Reddit / Product Hunt launch because you're scared of getting flamed |
 | **market-to-devs-sell-to-buyers** | Developers love it, star it, use the free tier, and nobody will pay |
+| **pricing** | You're guessing at a number, gave it away too cheap, or "developers won't pay" so you never charge |
 
 ### 4 · Keep it going
 
