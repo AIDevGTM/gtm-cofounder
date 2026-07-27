@@ -99,6 +99,7 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 | **launch-it** | You're sitting on a Show HN / Reddit / Product Hunt launch because you're scared of getting flamed |
 | **market-to-devs-sell-to-buyers** | Developers love it, star it, use the free tier, and nobody will pay |
 | **pricing** | You're guessing at a number, gave it away too cheap, or "developers won't pay" so you never charge |
+| **founder-led-sales** | Developers love it and use the free tier, but you've never sold anything and "let me think about it" kills every deal |
 
 ### 4 · Keep it going
 
