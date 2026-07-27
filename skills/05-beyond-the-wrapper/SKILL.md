@@ -9,6 +9,8 @@ description: Position an AI product when everyone claims AI and skeptics call it
 
 **Use this when:** people call your product "just a GPT wrapper," you blend into fifty tools that demo the same thing, buyers worry about accuracy or where their data goes, or you cannot answer "why won't OpenAI or Anthropic just build this?"
 
+> **Not building an AI product? Skip this one.** It is the one skill here that is not for everyone, and nothing else in the pack depends on it. Move straight on to `value-prop-that-converts`. Come back only if the "is this just a wrapper?" question ever lands on you.
+
 ## The core idea
 
 Half your competitors have the same model behind them, so the model cannot be your pitch. The "wrapper" objection is not a technology problem, it is a positioning problem: you are being described at the feature level (see `positioning-and-story`), and features that call the same API are interchangeable. The work is to move up a level, to the specific problem, the specific buyer, and the specific reasons a developer would trust you over a weekend prototype and their own API key.
