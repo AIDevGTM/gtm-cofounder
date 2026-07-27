@@ -19,6 +19,11 @@ Not marketing tactics or SEO skills. This is the strategy half of go-to-market: 
 Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent that supports the Agent Skills spec.
 
 ---
+## See it in action
+
+
+https://github.com/user-attachments/assets/54bbb54a-006d-4189-ba63-5f754fdf5268
+
 
 ## How to use it
 
