@@ -94,6 +94,7 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 
 | Skill | Reach for it when… |
 |-------|--------------------|
+| **time-to-first-value** | People sign up or star it, then never get it working, or come once and never come back |
 | **first-50-users** | You shipped, tweeted once, and nobody came, and you don't know which channel to even try |
 | **launch-it** | You're sitting on a Show HN / Reddit / Product Hunt launch because you're scared of getting flamed |
 | **market-to-devs-sell-to-buyers** | Developers love it, star it, use the free tier, and nobody will pay |
