@@ -87,6 +87,7 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 | Skill | Reach for it when… |
 |-------|--------------------|
 | **positioning-and-story** | Your homepage describes *your solution*, not *their problem*, and you sound like every competitor |
+| **beyond-the-wrapper** | People call your AI product "just a wrapper," everyone claims AI, and you can't say why you win when the model is a commodity |
 | **value-prop-that-converts** | Your value prop says "powerful," "better," and "seamless", words a developer has learned to ignore |
 | **the-homepage** | Your landing page is written for the buyer, who never visits it, instead of the developer, who does |
 
