@@ -1,6 +1,6 @@
 ---
 name: who-is-this-for
-description: Define a real ICP and the developer personas in the sale. Use when the founder says the product is "for developers," can't name who would say no, or is marketing to whoever holds the budget instead of who actually adopts.
+description: "Define a real ICP and the developer personas in the sale. Use when the founder says the product is \"for developers,\" can't name who would say no, or is marketing to whoever holds the budget instead of who actually adopts."
 ---
 
 # Who is this for?
