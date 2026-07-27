@@ -21,6 +21,7 @@ Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent t
 ---
 ## See it in action
 
+*A real example: five questions, then a diagnosis the founder couldn't see themselves.*
 
 https://github.com/user-attachments/assets/54bbb54a-006d-4189-ba63-5f754fdf5268
 
