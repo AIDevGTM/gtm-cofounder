@@ -1,6 +1,6 @@
 # The GTM Co-Founder
 
-[![skills.sh](https://skills.sh/b/AIDevGTM/gtm-cofounder)](https://skills.sh/AIDevGTM/gtm-cofounder) [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/AIDevGTM/gtm-cofounder?style=flat)](https://github.com/AIDevGTM/gtm-cofounder/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/AIDevGTM/gtm-cofounder?style=flat)](https://github.com/AIDevGTM/gtm-cofounder/stargazers)
 
 ### For the founder building it alone.
 
