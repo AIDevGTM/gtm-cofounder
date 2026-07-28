@@ -38,13 +38,20 @@ Open any skill, copy the text, paste it into ChatGPT, Claude, or Cursor, and say
 
 Start with `00-start-here`, then `01-strategy-and-roadmap`. That is the spine of the whole thing.
 
-### Path 2: hand your agent the folder (2 minutes)
+### Path 2: download and drop in (no terminal)
+
+No CLI, no git. Grab a zip from the [latest release](https://github.com/AIDevGTM/gtm-cofounder/releases/latest).
+
+- **Claude apps (claude.ai, desktop):** download any single skill's zip, then go to **Customize → Skills → Create skill** and upload it. Claude reads it and switches it on. Start with `00-start-here`, then add the others you want.
+- **Claude Code, without the CLI:** download `gtm-cofounder-skills.zip`, unzip it, and move the folders into `~/.claude/skills/`.
+
+### Path 3: hand your agent the folder (2 minutes)
 
 In Cursor or Claude Code, open this repo (or your own project with it cloned) and paste this once:
 
 > You are my GTM co-founder. Read AGENTS.md and the skills in this repo. Start with 00-start-here to interview me one question at a time and write a docs/gtm-cofounder/founder-brief.md. Then run 01-strategy-and-roadmap to turn that into a prioritized docs/gtm-cofounder/gtm-roadmap.md. From then on, work the roadmap with me one move at a time. Offer, never impose: don't start a task I haven't picked, and if I say no to something, park it and move on. Be direct and specific, no fluff, and always end by telling me the single next move.
 
-### Path 3: install as real skills (they auto-trigger)
+### Path 4: install as real skills (they auto-trigger)
 
 **Claude Code (direct)**
 ```bash
