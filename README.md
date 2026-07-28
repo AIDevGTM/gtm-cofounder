@@ -88,6 +88,12 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 | **start-here** | Setup, or the agent keeps giving generic advice because it doesn't know your business |
 | **strategy-and-roadmap** | You don't know what to work on next, or you're being handed one-off tasks that don't add up to a plan |
 
+### Runs throughout (a gate, not a step)
+
+| Skill | Reach for it when… |
+|-------|--------------------|
+| **review-the-work** | Before you ship anything. The agent stops being the author and stress-tests the piece as a skeptic, so weak or unprovable claims never reach you |
+
 ### 1 · Figure out who it's for
 
 | Skill | Reach for it when… |
