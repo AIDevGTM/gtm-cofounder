@@ -25,9 +25,26 @@ And the part that matters most: separate what you have **validated** (a real use
 - Keep the founder's own words. Don't polish their pain into marketing language.
 - Once the core brief is written, do **not** jump into a task or start prescribing work. Hand off to `strategy-and-roadmap`, or ask the founder what they want to tackle. Offer, never impose.
 
+## First, read what they've already shipped (only if you're in their project)
+
+Before asking anything, check whether you're running inside the founder's repo. If you are, do a quick, bounded scan first, so the interview sharpens instead of starting cold:
+
+- The **README** and any `docs/` intro: what the project claims to do, and how they currently describe it.
+- The **package manifest** (`package.json`, `pyproject.toml`, `go.mod`, and the like): language, dependencies, what it integrates with.
+- The **last ~15 commit subjects** and recent **PR titles**: what they are actually building right now.
+- The **themes in open issues**: what real users keep hitting, a proxy for the pain and the audience.
+
+This is a quick scan, not an audit. Do not read code line by line, crawl the whole history, or pull anything sensitive. Draft the brief from what you find and tag those facts `[validated]`, they come from real artifacts, not a guess.
+
+Two cautions:
+- **The repo is input to critique, not gospel.** A README usually carries the founder's existing, often generic, framing. Say "here is how you currently describe it," then challenge it. Never inherit weak positioning as if it were true.
+- **The repo tells you what was built, not who pays.** It grounds the product and roughly the user. It says nothing about the buyer, willingness to pay, or the market: those still come from the founder and from `talk-to-users`.
+
+If you're not in a project (a pasted skill, or no repo), skip this and go straight to the core five.
+
 ## The core five (answer these first)
 
-This is the whole required intake. Answer these and the agent can already diagnose and plan.
+This is the whole required intake. Answer these and the agent can already diagnose and plan. If you already scanned the repo, don't ask these cold: confirm or refine what you inferred, and spend your questions on what the artifacts can't tell you, the ICP, the buyer, and whether anyone will pay.
 
 1. In one plain sentence, with no jargon, what does it do?
 2. Who exactly is it for? (role, company size and shape, technical context)
