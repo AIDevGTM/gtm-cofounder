@@ -59,13 +59,13 @@ git clone https://github.com/AIDevGTM/gtm-cofounder.git
 cp -r gtm-cofounder/skills/* ~/.claude/skills/
 ```
 
-**Claude Code (plugin marketplace)**
+**Claude Code (plugin marketplace)** _(run these in the Claude Code CLI)_
 ```bash
 /plugin marketplace add AIDevGTM/gtm-cofounder
 /plugin install gtm-cofounder@gtm-cofounder
 ```
 
-**skills.sh CLI (any agent)**
+**skills.sh CLI (any agent)** _(requires Node.js)_
 ```bash
 npx skills add AIDevGTM/gtm-cofounder
 ```
