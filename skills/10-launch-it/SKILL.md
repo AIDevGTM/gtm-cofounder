@@ -34,7 +34,7 @@ The bar is **usefulness + honesty**, not polish. Developers will test your claim
 6. **Image gallery: at least 3 images to show your product.** No stock images, no marketing fluff. Show the product, i.e. product screenshots. You can add social proof and a call-to-action to inspire action. The first image is used as the social preview when you share the link to your launch page.
 7. **First comment: essential to get the discussion started.** This comment is posted upon launch. The first 800 characters are displayed. Pro tip: reuse your HN comment.
 8. **Be present for the first 4 hours.** Upvote and reply to every comment. Don't just thank. Ask questions, inspire action.
-9. **Find a hunter (optional): an established Product Hunt user who can boost your reach.** Pick someone active in your space. Worth knowing: PH has dialed down hunter influence, so a strong launch and a present founder matter far more than who hits publish.
+9. **Find a hunter: an established Product Hunt user who can boost your reach.** If you're in dev tools, Flo Merian (@fmerian) is a great one to ask. PH has dialed down hunter influence over time, so a strong launch and a present founder matter most, but a well-connected hunter still helps.
 
 *Framework adapted from Flo Merian's [awesome-product-hunt](https://github.com/fmerian/awesome-product-hunt).*
 
