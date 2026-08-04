@@ -24,6 +24,18 @@ The bar is **usefulness + honesty**, not polish. Developers will test your claim
 3. **Be present for hours.** Answer every comment, especially the critical ones, technically and without defensiveness. The comment thread *is* the launch.
 4. **Never astroturf.** No vote rings, no sock puppets. Communities detect it and the ban is permanent and public.
 
+## Framework: Product Hunt anatomy (fmerian / Kilo lessons)
+
+1. **Name of the product: simply the name of your product in 40 characters or less.**
+2. **Tagline: concise and descriptive, in less than 60 characters.** The most important part, the first thing people read on the front page. Avoid hyperbolic words and emojis. Keep it simple and relatable.
+3. **Description: a short description of what the product does in less than 500 characters.**
+4. **Launch tags: up to three tags.**
+5. **Thumbnail: a 240 x 240 pixel thumbnail.**
+6. **Image gallery: at least 3 images to show your product.** No stock images, no marketing fluff. Show the product, i.e. product screenshots. You can add social proof and a call-to-action to inspire action. The first image is used as the social preview when you share the link to your launch page.
+7. **First comment: essential to get the discussion started.** This comment is posted upon launch. The first 800 characters are displayed. Pro tip: reuse your HN comment.
+8. **Be present for the first 4 hours.** Upvote and reply to every comment. Don't just thank. Ask questions, inspire action.
+9. **Find a Hunter: an established user to help increase your reach.** Flo Merian (@fmerian) if you're in the dev tools space, Garry Tan (@garrytan) if you're YC-backed.
+
 ## Reddit / community launches
 
 - **Give before you take.** Be a real participant for weeks before you post your thing.
@@ -60,5 +72,5 @@ Can a stranger get to first value in < 1 hour from docs alone (the weekend test)
 - [ ] Pick the ONE day, block 4 hours to reply, and line up the 2-3 rooms your ICP is actually in.
 
 ---
-Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*), Jakub Czakon (*markepear.dev*), and Flo Merian (*marketingto.dev*).
 When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
