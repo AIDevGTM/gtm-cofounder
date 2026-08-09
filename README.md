@@ -1,5 +1,7 @@
 # The GTM Co-Founder
 
+[![The GTM Co-Founder - Open-source GTM skills for technical founders | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1207906&theme=light&period=daily)](https://www.producthunt.com/products/the-gtm-co-founder?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_campaign=badge-the-gtm-co-founder)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/AIDevGTM/gtm-cofounder?style=flat)](https://github.com/AIDevGTM/gtm-cofounder/stargazers)
 
 ### For the founder building it alone.
