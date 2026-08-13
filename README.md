@@ -27,53 +27,45 @@ Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent t
 
 https://github.com/user-attachments/assets/54bbb54a-006d-4189-ba63-5f754fdf5268
 
+## Get your GTM diagnosis in 15 minutes
 
-## How to use it
+One path. In the AI coding agent you already use (Claude Code, Cursor, Codex, Windsurf), tell it:
 
-**Never used "skills" before? You don't need to.** These are just markdown playbooks. The "skill" part only means an agent knows when to reach for each one. Pick the path that fits.
+> Install the skills from https://github.com/AIDevGTM/gtm-cofounder and run 00-start-here with me.
 
-### Path 1: zero setup (30 seconds)
+If your agent cannot fetch the repo from a link, clone it first with `git clone https://github.com/AIDevGTM/gtm-cofounder.git` (or open it in your editor), then give it the same instruction.
 
-Open any skill, copy the text, paste it into ChatGPT, Claude, or Cursor, and say:
+`00-start-here` asks you five questions, one at a time, and writes your **founder brief**: the file every other skill reads first, so the advice is about your product, not a textbook's. A few minutes, no long form.
 
-> Apply this to my product: [one line on what you're building].
+Then tell it:
 
-Start with `00-start-here`, then `01-strategy-and-roadmap`. That is the spine of the whole thing.
+> Run 01-strategy-and-roadmap.
 
-### Path 2: download and drop in (no terminal)
+That is the payoff: an honest diagnosis of the GTM problem to work on **now**, what to **not** work on yet, and your **single next move**.
 
-No CLI, no git. Grab a zip from the [latest release](https://github.com/AIDevGTM/gtm-cofounder/releases/latest).
+**Why this beats generic AI marketing advice.** Tell a normal chatbot "I have 800 GitHub stars but almost nobody pays" and you get ten marketing tactics. GTM Co-Founder does the opposite. It tells you that you do not yet know whether people activate, come back, or would ever pay, so reaching for tactics now is the wrong move. Your next step is not "post more," it is the one piece of evidence you need to go and get. The value is not more ideas. It is knowing what to do next.
 
-- **Claude apps (claude.ai, desktop):** download any single skill's zip, then go to **Customize → Skills → Create skill** and upload it. Claude reads it and switches it on. Start with `00-start-here`, then add the others you want.
-- **Claude Code, without the CLI:** download `gtm-cofounder-skills.zip`, unzip it, and move the folders into `~/.claude/skills/`.
+### Other ways to install
 
-### Path 3: hand your agent the folder (2 minutes)
+The path above works in any agent that supports the Agent Skills spec (Claude Code, Cursor, Codex, Windsurf, Antigravity). Reach for these only if you want the skills installed so your agent auto-triggers them, or you are not in a coding agent at all.
 
-In Cursor or Claude Code, open this repo (or your own project with it cloned) and paste this once:
-
-> You are my GTM co-founder. Read AGENTS.md and the skills in this repo. Start with 00-start-here to interview me one question at a time and write a docs/gtm-cofounder/founder-brief.md. Then run 01-strategy-and-roadmap to turn that into a prioritized docs/gtm-cofounder/gtm-roadmap.md. From then on, work the roadmap with me one move at a time. Offer, never impose: don't start a task I haven't picked, and if I say no to something, park it and move on. Be direct and specific, no fluff, and always end by telling me the single next move.
-
-### Path 4: install as real skills (they auto-trigger)
-
-**Claude Code (direct)**
-```bash
-git clone https://github.com/AIDevGTM/gtm-cofounder.git
-cp -r gtm-cofounder/skills/* ~/.claude/skills/
-```
-
-**Claude Code (plugin marketplace)** _(run these in the Claude Code CLI)_
-```bash
-/plugin marketplace add AIDevGTM/gtm-cofounder
-/plugin install gtm-cofounder@gtm-cofounder
-```
-
-**skills.sh CLI (any agent)** _(requires Node.js)_
-```bash
-npx skills add AIDevGTM/gtm-cofounder
-```
-
-**Cursor / Codex / other agents**
-Copy the `skills/` folder into your agent's skills directory. Each skill is self-contained: one folder, one `SKILL.md`, zero dependencies.
+- **No coding agent (ChatGPT, Claude, plain chat):** open any skill, copy the text, paste it in, and say "apply this to my product: [one line on what you're building]." Start with `00-start-here`, then `01-strategy-and-roadmap`.
+- **No terminal:** grab a zip from the [latest release](https://github.com/AIDevGTM/gtm-cofounder/releases/latest). In the Claude apps, go to **Customize → Skills → Create skill** and upload a skill's zip. For Claude Code, unzip and move the folders into `~/.claude/skills/`.
+- **Claude Code (direct):**
+  ```bash
+  git clone https://github.com/AIDevGTM/gtm-cofounder.git
+  cp -r gtm-cofounder/skills/* ~/.claude/skills/
+  ```
+- **Claude Code (plugin marketplace)** _(run in the Claude Code CLI):_
+  ```bash
+  /plugin marketplace add AIDevGTM/gtm-cofounder
+  /plugin install gtm-cofounder@gtm-cofounder
+  ```
+- **skills.sh CLI (any agent)** _(requires Node.js):_
+  ```bash
+  npx skills add AIDevGTM/gtm-cofounder
+  ```
+- **Cursor / Codex / other agents:** copy the `skills/` folder into your agent's skills directory. Each skill is self-contained: one folder, one `SKILL.md`, zero dependencies.
 
 ---
 
