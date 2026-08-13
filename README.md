@@ -4,6 +4,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/AIDevGTM/gtm-cofounder?style=flat)](https://github.com/AIDevGTM/gtm-cofounder/stargazers)
 
+**Your agent is too nice. Just like the team around you. This is the GTM co-founder that says what they won't.**
+
+Open-source go-to-market skills for solo technical dev-tool founders. Answer five questions, get a prioritized GTM roadmap, then work the plan. Free, MIT-licensed, and runs inside the agent you already code in.
+
+**[gtmcofounder.com](https://gtmcofounder.com)** · Works with Claude Code, Cursor, Codex, Windsurf, Antigravity, and any agent that supports the Agent Skills spec.
+
 ### For the founder building it alone.
 
 If you're a technical founder pouring your own money, your nights, and your weekends into something you believe in, with **no funding, no team, no commercial co-founder, and some days it is just plain hard**, then this is for you. Especially you.
@@ -14,11 +20,7 @@ That's what this is: **the GTM co-founder you don't have (yet)**, a full set of 
 
 You don't have to figure this part out alone anymore.
 
-**Answer a set of questions once (about 15 minutes), and your agent builds you a prioritized GTM roadmap, then works it with you one move at a time: positioning, first users, launch, pricing, in the order that matters for your stage.**
-
 Not marketing tactics or SEO skills. This is the strategy half of go-to-market: who it's for, why they'd pay, and how to land your first users. For the founder who can build anything but freezes on that.
-
-Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent that supports the Agent Skills spec.
 
 ---
 ## See it in action
