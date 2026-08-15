@@ -1,6 +1,6 @@
 ---
 name: pricing
-description: "Help the founder decide what to charge and how to package it: the value metric, the tiers, the free-to-paid line, and finding the actual number. Use when the founder is guessing at a price, priced too cheap and can't change it, is stuck on free vs paid, or believes \"developers won't pay\" so never charges."
+description: "Help the user decide what to charge and how to package it: the value metric, the tiers, the free-to-paid line, and finding the actual number. Use when the user is guessing at a price, priced too cheap and can't change it, is stuck on free vs paid, or believes \"developers won't pay\" so never charges."
 ---
 
 # Pricing (what to charge, and how)
