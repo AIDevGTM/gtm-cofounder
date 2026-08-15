@@ -1,6 +1,6 @@
 ---
 name: market-to-devs-sell-to-buyers
-description: Turn developer love into revenue by enabling champions and choosing a GTM model. Use when developers adopt the free tier but nobody pays, when the founder is cold-selling the VP instead of arming the developer, or when picking between open-source, PLG, inbound, and sales-led.
+description: Turn developer love into revenue by enabling champions and choosing a GTM model. Use when developers adopt the free tier but nobody pays, when the user is cold-selling the VP instead of arming the developer, or when picking between open-source, PLG, inbound, and sales-led.
 ---
 
 # Market to devs, sell to buyers

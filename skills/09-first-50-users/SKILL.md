@@ -1,6 +1,6 @@
 ---
 name: first-50-users
-description: "Get the first 50 real users through channels the founder's ICP already uses. Use when the product shipped and nobody came, the founder is \"posting more\" with no result, or is reaching for paid ads before product-market fit."
+description: "Get the first 50 real users through channels the user's ICP already uses. Use when the product shipped and nobody came, the user is \"posting more\" with no result, or is reaching for paid ads before product-market fit."
 ---
 
 # Your first 50 users

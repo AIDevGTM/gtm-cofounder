@@ -1,6 +1,6 @@
 ---
 name: know-if-its-working
-description: Measure GTM with the metrics that matter (net developer retention, DREAM funnel) instead of vanity numbers. Use when the founder has dashboards full of stars and pageviews but can't tell if go-to-market is working, or is optimizing acquisition over a leaky bucket.
+description: Measure GTM with the metrics that matter (net developer retention, DREAM funnel) instead of vanity numbers. Use when the user has dashboards full of stars and pageviews but can't tell if go-to-market is working, or is optimizing acquisition over a leaky bucket.
 ---
 
 # Know if it's working

@@ -1,6 +1,6 @@
 ---
 name: founder-led-content
-description: "Build authority by teaching the problem space, not announcing features. Use when the founder finds \"marketing\" distasteful and does none, publishes only product updates, or wants a sustainable content and GitHub-README strategy that developers actually respect."
+description: "Build authority by teaching the problem space, not announcing features. Use when the user finds \"marketing\" distasteful and does none, publishes only product updates, or wants a sustainable content and GitHub-README strategy that developers actually respect."
 ---
 
 # Founder-led content
