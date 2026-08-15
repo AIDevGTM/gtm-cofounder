@@ -1,29 +1,31 @@
 # The GTM Co-Founder
 
-[![The GTM Co-Founder - Open-source GTM skills for technical founders | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1207906&theme=light&period=daily)](https://www.producthunt.com/products/the-gtm-co-founder?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_campaign=badge-the-gtm-co-founder)
+[![The GTM Co-Founder - Open-source GTM skills for developer tools and AI products | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1207906&theme=light&period=daily)](https://www.producthunt.com/products/the-gtm-co-founder?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_campaign=badge-the-gtm-co-founder)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/AIDevGTM/gtm-cofounder?style=flat)](https://github.com/AIDevGTM/gtm-cofounder/stargazers)
 
-### For the founder building it alone.
+### For whoever is carrying the go-to-market, often alone.
 
-If you're a technical founder pouring your own money, your nights, and your weekends into something you believe in, with **no funding, no team, no commercial co-founder, and some days it is just plain hard**, then this is for you. Especially you.
+If you're a technical founder pouring your own money, your nights, and your weekends into a developer tool or an AI product you believe in, with **no funding, no team, no commercial co-founder, and some days it is just plain hard**, then this is for you. Especially you.
 
-Building alone is isolating. The engineering, you can do in your sleep. It's the *other* half that keeps you up at 2am, with no one in the room to think it through: **who is this even for? why would anyone pay? why did nobody come when I shipped?**
+And it is not only for founders. If you're the first GTM hire, or the founding account executive carrying the commercial side of a technical product with no playbook and no team, this is for you too. The title is different; the fight is the same.
 
-That's what this is: **the GTM co-founder you don't have (yet)**, a full set of go-to-market skills sitting in your corner, inside the agent you already code in. Not a course. Frameworks with real numbers and concrete next steps, not theory, built from years of selling and advising developer tools, sharpened by the sharpest thinking in the field (**[Adam Frankl](https://developerfacingstartup.dev/)** and **[Jakub Czakon](https://www.markepear.dev)**), and pressure-tested by founders who used it in the trenches, so the commercial side can feel as rigorous, and as *doable*, as the code.
+Building alone is isolating. The part you're good at, whether that's shipping the product or working the deal, you can do in your sleep. It's the *other* half that keeps you up at 2am, with no one in the room to think it through: **who is this even for? why would anyone pay? why did nobody come when we shipped?**
+
+That's what this is: **the GTM co-founder you don't have (yet)**, a full set of go-to-market skills sitting in your corner, inside the agent you already work in. Not a course. Frameworks with real numbers and concrete next steps, not theory, built from years of selling and advising developer tools and AI products, sharpened by the sharpest thinking in the field (**[Adam Frankl](https://developerfacingstartup.dev/)** and **[Jakub Czakon](https://www.markepear.dev)**), and pressure-tested by founders and GTM operators who used it in the trenches, so the commercial side can feel as rigorous, and as *doable*, as the product.
 
 You don't have to figure this part out alone anymore.
 
 **Answer a set of questions once (about 15 minutes), and your agent builds you a prioritized GTM roadmap, then works it with you one move at a time: positioning, first users, launch, pricing, in the order that matters for your stage.**
 
-Not marketing tactics or SEO skills. This is the strategy half of go-to-market: who it's for, why they'd pay, and how to land your first users. For the founder who can build anything but freezes on that.
+Not marketing tactics or SEO skills. This is the strategy half of go-to-market: who it's for, why they'd pay, and how to land your first users. For the person who can build or sell almost anything, but freezes on that.
 
 Works with **Claude Code, Cursor, Codex, Windsurf, Antigravity** and any agent that supports the Agent Skills spec.
 
 ---
 ## See it in action
 
-*A real example: five questions, then a diagnosis the founder couldn't see themselves.*
+*A real example: five questions, then a diagnosis they couldn't see themselves.*
 
 https://github.com/user-attachments/assets/54bbb54a-006d-4189-ba63-5f754fdf5268
 
@@ -127,11 +129,11 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 
 ## What's inside each skill
 
-Every `SKILL.md` gives you **frameworks with actual thresholds** (not principles), **decision trees** for the calls that stall technical founders, **the mistakes that look reasonable but quietly kill you**, real examples, and a **checklist you can run in the next 30 minutes**. Written in a founder's language, direct, specific, allergic to fluff.
+Every `SKILL.md` gives you **frameworks with actual thresholds** (not principles), **decision trees** for the calls that stall whoever owns GTM, **the mistakes that look reasonable but quietly kill you**, real examples, and a **checklist you can run in the next 30 minutes**. Written in a founder's language, direct, specific, allergic to fluff.
 
 ## Where this comes from
 
-The spine of this pack is my own experience selling and advising developer tools: years as an enterprise and founding account executive, and advising early-stage dev-tool founders through exactly the fights these skills cover. That lived experience is what most of this is.
+The spine of this pack is my own experience selling and advising developer tools and AI products: years as an enterprise and founding account executive, and advising early-stage dev-tool and AI founders through exactly the fights these skills cover. That lived experience is what most of this is.
 
 It's sharpened by the two people who have shaped developer go-to-market thinking the most, and their work is worth reading in full:
 
@@ -149,7 +151,7 @@ Where a framework is theirs, the credit is theirs. Where it holds up in practice
 
 ## When you don't want to do it alone
 
-Skills are great at the *knowable* calls. But some days you don't need another framework, you need a person who's been in the trenches, who's seen this exact fight across dozens of dev-tool companies, and who can tell you it's going to be okay *and* what to do next.
+Skills are great at the *knowable* calls. But some days you don't need another framework, you need a person who's been in the trenches, who's seen this exact fight across dozens of dev-tool and AI companies, and who can tell you it's going to be okay *and* what to do next.
 
 That's the day job, and it comes in two shapes:
 
