@@ -1,6 +1,6 @@
 # Contributing
 
-This is a living toolkit for technical founders. Contributions that make it sharper are welcome.
+This is a living toolkit for the people who take developer tools and AI products to market: founders, early GTM hires, and founding AEs. Contributions that make it sharper are welcome.
 
 ## What makes a good contribution
 
@@ -21,4 +21,4 @@ This is a living toolkit for technical founders. Contributions that make it shar
 
 - Generic "growth hacking" tactics, engagement-bait, or anything that tricks developers. The first rule of dev GTM is: don't lie to developers. They find out.
 
-Thanks for helping technical founders get out of their own way.
+Thanks for helping founders, GTM hires, and founding AEs get out of their own way.
