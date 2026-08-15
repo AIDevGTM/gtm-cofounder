@@ -35,6 +35,8 @@ _Auto-generated weekly by `.github/workflows/traffic-snapshot.yml`. Last updated
 
 The three signals in one place. **Report skills.sh installs as the headline install number** (it is all-time and CLI-specific).
 
+![Daily clones](metrics/clones-trend.svg)
+
 | Metric | Value | Source | Notes |
 |---|---|---|---|
 | **skills.sh installs (all-time)** | **{sk_installs}** | skills.sh CLI | scraped {sk_date}; the cleanest install number |

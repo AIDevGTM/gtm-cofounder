@@ -47,6 +47,9 @@ jobs:
             echo "skills.sh scrape returned empty; leaving the log unchanged."
           fi
 
+      - name: Render clone-trend chart
+        run: python3 .github/scripts/build_chart.py
+
       - name: Rebuild METRICS.md
         run: python3 .github/scripts/build_metrics.py
 
@@ -54,7 +57,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add METRICS.md traffic/traffic-daily.csv metrics/skills-installs.csv metrics/manual.json
+          git add METRICS.md metrics/clones-trend.svg traffic/traffic-daily.csv metrics/skills-installs.csv metrics/manual.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else

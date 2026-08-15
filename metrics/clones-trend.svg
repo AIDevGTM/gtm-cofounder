@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="280" viewBox="0 0 820 280" font-family="ui-monospace,Menlo,monospace">
+<rect width="820" height="280" rx="12" fill="#0e1118"/>
+<text x="48" y="24" fill="#eef1f6" font-size="14" font-weight="700">Daily clones (installs proxy)</text>
+<line x1="48" y1="236.0" x2="800" y2="236.0" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="40" y="240.0" fill="#7f8797" font-size="10" text-anchor="end">0</text>
+<line x1="48" y1="138.0" x2="800" y2="138.0" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="40" y="142.0" fill="#7f8797" font-size="10" text-anchor="end">100</text>
+<line x1="48" y1="40.0" x2="800" y2="40.0" stroke="#ffffff" stroke-opacity="0.08"/>
+<text x="40" y="44.0" fill="#7f8797" font-size="10" text-anchor="end">200</text>
+<path d="M48.0 178.2 L105.8 210.5 L163.7 219.3 L221.5 177.2 L279.4 197.8 L337.2 180.1 L395.1 198.8 L452.9 107.6 L510.8 107.6 L568.6 141.9 L626.5 184.1 L684.3 123.3 L742.2 161.5 L800.0 178.2 L800.0 236.0 L48.0 236.0 Z" fill="#2fe6a8" fill-opacity="0.12"/>
+<path d="M48.0 178.2 L105.8 210.5 L163.7 219.3 L221.5 177.2 L279.4 197.8 L337.2 180.1 L395.1 198.8 L452.9 107.6 L510.8 107.6 L568.6 141.9 L626.5 184.1 L684.3 123.3 L742.2 161.5 L800.0 178.2" fill="none" stroke="#2fe6a8" stroke-width="2"/>
+<path d="M48.0 207.6 L105.8 211.5 L163.7 219.3 L221.5 193.9 L279.4 202.7 L337.2 209.5 L395.1 202.7 L452.9 134.1 L510.8 124.3 L568.6 155.6 L626.5 190.9 L684.3 158.6 L742.2 170.3 L800.0 183.1" fill="none" stroke="#2fe6a8" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="48.0" y="264" fill="#7f8797" font-size="10" text-anchor="middle">08-01</text>
+<text x="452.9" y="264" fill="#7f8797" font-size="10" text-anchor="middle">08-08</text>
+<text x="800.0" y="264" fill="#7f8797" font-size="10" text-anchor="middle">08-14</text>
+<line x1="650" y1="20" x2="668" y2="20" stroke="#2fe6a8" stroke-width="2"/>
+<text x="674" y="24" fill="#7f8797" font-size="10">total</text>
+<line x1="720" y1="20" x2="738" y2="20" stroke="#2fe6a8" stroke-opacity="0.5" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="744" y="24" fill="#7f8797" font-size="10">unique</text>
+</svg>
