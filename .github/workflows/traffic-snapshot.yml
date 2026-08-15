@@ -1,0 +1,45 @@
+name: Traffic snapshot
+
+on:
+  schedule:
+    - cron: '17 6 * * 1'   # every Monday 06:17 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TRAFFIC_TOKEN }}
+
+      - name: Fetch traffic and merge into CSV
+        env:
+          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          if [ -z "${TRAFFIC_TOKEN:-}" ]; then
+            echo "::error::TRAFFIC_TOKEN secret is not set. The GitHub traffic API needs a PAT (repo scope); the default GITHUB_TOKEN cannot read it. Add it under Settings > Secrets and variables > Actions."
+            exit 1
+          fi
+          api() { curl -sf -H "Authorization: token $TRAFFIC_TOKEN" -H "Accept: application/vnd.github+json" "https://api.github.com/repos/$REPO/traffic/$1"; }
+          api clones > clones.json
+          api views  > views.json
+          python3 .github/scripts/merge_traffic.py
+          rm -f clones.json views.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add traffic/traffic-daily.csv
+          if git diff --staged --quiet; then
+            echo "No traffic changes to commit."
+          else
+            git commit -m "chore(traffic): weekly snapshot [skip ci]"
+            git push
+          fi
