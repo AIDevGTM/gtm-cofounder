@@ -6,7 +6,7 @@ _Auto-generated weekly by `.github/workflows/traffic-snapshot.yml`. Last updated
 
 | Metric | Value | Source | Notes |
 |---|---|---|---|
-| **skills.sh installs (all-time)** | **1.5K** | skills.sh CLI | scraped 2026-08-14; the cleanest install number |
+| **skills.sh installs (all-time)** | **1.5K** | skills.sh CLI | scraped 2026-08-17; the cleanest install number |
 | Website visitors | 9.9k | Lovable analytics (gtmcofounder.com) | last 14 days, as of 2026-08-14 (manual) |
 
 ## What each number is
