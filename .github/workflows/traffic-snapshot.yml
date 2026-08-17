@@ -1,4 +1,4 @@
-name: Traffic snapshot
+name: Metrics snapshot
 
 on:
   schedule:
@@ -13,24 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.TRAFFIC_TOKEN }}
-
-      - name: Fetch GitHub traffic and merge into CSV
-        env:
-          TRAFFIC_TOKEN: ${{ secrets.TRAFFIC_TOKEN }}
-          REPO: ${{ github.repository }}
-        run: |
-          set -euo pipefail
-          if [ -z "${TRAFFIC_TOKEN:-}" ]; then
-            echo "::error::TRAFFIC_TOKEN secret is not set. The traffic API needs a PAT (repo scope); the default GITHUB_TOKEN cannot read it."
-            exit 1
-          fi
-          api() { curl -sf -H "Authorization: token $TRAFFIC_TOKEN" -H "Accept: application/vnd.github+json" "https://api.github.com/repos/$REPO/traffic/$1"; }
-          api clones > clones.json
-          api views  > views.json
-          python3 .github/scripts/merge_traffic.py
-          rm -f clones.json views.json
 
       - name: Snapshot skills.sh installs (best-effort, no auth)
         run: |
@@ -47,9 +29,6 @@ jobs:
             echo "skills.sh scrape returned empty; leaving the log unchanged."
           fi
 
-      - name: Render clone-trend chart
-        run: python3 .github/scripts/build_chart.py
-
       - name: Rebuild METRICS.md
         run: python3 .github/scripts/build_metrics.py
 
@@ -57,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add METRICS.md metrics/clones-trend.svg traffic/traffic-daily.csv metrics/skills-installs.csv metrics/manual.json
+          git add METRICS.md metrics/skills-installs.csv metrics/manual.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
