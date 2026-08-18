@@ -122,6 +122,7 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 | Skill | Reach for it when… |
 |-------|--------------------|
 | **founder-led-content** | "Marketing" feels gross, so you do none, while your competitor owns the conversation |
+| **devrel-and-community** | You know you should "do community" or "need DevRel," but it feels vague or premature, or you are about to spin up a Discord nobody shows up to |
 | **know-if-its-working** | You have dashboards full of vanity metrics and no idea whether GTM is actually working |
 | **market-scan** | A rival just rebranded or a new tool appeared, and your positioning is answering last year's market |
 
