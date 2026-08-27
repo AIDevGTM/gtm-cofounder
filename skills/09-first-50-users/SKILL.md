@@ -28,7 +28,7 @@ Then **Evaluation** decides everything (see `know-if-its-working`): can a new de
 - Founder posting *genuinely useful* things where the ICP hangs out (not "we launched!").
 - One deep launch (see `launch-it`), not ten shallow ones.
 
-**Post-PMF (later):** content/SEO, community, dev-influencer partnerships, then paid to *amplify* what already converts, never to *discover* it.
+**Post-PMF (later):** content/SEO, community, dev-influencer partnerships, then paid to *amplify* what already converts, never to *discover* it. And once the first 50 are in and retention holds, the hand-to-hand work graduates: build the self-reinforcing engine in `growth-loops`.
 
 ## How to pick the channel (don't do all of them)
 

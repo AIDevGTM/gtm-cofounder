@@ -113,6 +113,7 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 | **time-to-first-value** | People sign up or star it, then never get it working, or come once and never come back |
 | **first-50-users** | You shipped, tweeted once, and nobody came, and you don't know which channel to even try |
 | **launch-it** | You're sitting on a Show HN / Reddit / Product Hunt launch because you're scared of getting flamed |
+| **growth-loops** | You got your first 50 by hand and growth stalls the moment you stop pushing; time to build the loops that get the next 5,000 without you |
 | **market-to-devs-sell-to-buyers** | Developers love it, star it, use the free tier, and nobody will pay |
 | **pricing** | You're guessing at a number, gave it away too cheap, or "developers won't pay" so you never charge |
 | **founder-led-sales** | Developers love it and use the free tier, but you've never sold anything and "let me think about it" kills every deal |

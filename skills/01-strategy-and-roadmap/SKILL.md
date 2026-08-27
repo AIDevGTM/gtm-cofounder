@@ -36,6 +36,7 @@ Use the brief's stage and evidence answers to pick the starting point. A rough g
 | A few users, can't describe them | Fuzzy ICP, so nothing else can be sharp | `who-is-this-for`, then `positioning-and-story` |
 | Users but the message is generic | Positioning and homepage speak to no one | `positioning-and-story`, `value-prop-that-converts`, `the-homepage` |
 | Good product, nobody arrives | Distribution: no first channel that works | `first-50-users`, then `launch-it` |
+| First 50 in hand, growth stalls when you stop pushing | Every user is hand-made; usage creates no new users | `growth-loops` |
 | Developers love it, nobody pays | The buyer vs user gap | `market-to-devs-sell-to-buyers` |
 | Growing but flying blind | No read on what's actually working | `know-if-its-working` |
 
