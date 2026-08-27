@@ -121,6 +121,7 @@ Then the **roadmap**: the agent turns that brief into an honest diagnosis and a 
 
 | Skill | Reach for it when… |
 |-------|--------------------|
+| **growth-loops** | You got your first 50 by hand and growth stalls the moment you stop pushing; time to build the loops that get the next 5,000 without you |
 | **founder-led-content** | "Marketing" feels gross, so you do none, while your competitor owns the conversation |
 | **know-if-its-working** | You have dashboards full of vanity metrics and no idea whether GTM is actually working |
 | **market-scan** | A rival just rebranded or a new tool appeared, and your positioning is answering last year's market |
