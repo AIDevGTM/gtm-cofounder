@@ -1,12 +1,12 @@
 # gtm-cofounder · metrics
 
-_Auto-generated weekly by `.github/workflows/traffic-snapshot.yml`. Last updated: 2026-08-31._
+_Auto-generated weekly by `.github/workflows/traffic-snapshot.yml`. Last updated: 2026-09-07._
 
 **Report skills.sh installs as the headline install number** (it is all-time and CLI-specific).
 
 | Metric | Value | Source | Notes |
 |---|---|---|---|
-| **skills.sh installs (all-time)** | **2.0K** | skills.sh CLI | scraped 2026-08-31; the cleanest install number |
+| **skills.sh installs (all-time)** | **2.1K** | skills.sh CLI | scraped 2026-09-07; the cleanest install number |
 | Website visitors | 9.9k | Lovable analytics (gtmcofounder.com) | last 14 days, as of 2026-08-14 (manual) |
 
 ## What each number is
