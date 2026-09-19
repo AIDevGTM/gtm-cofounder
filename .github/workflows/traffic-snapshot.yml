@@ -32,14 +32,15 @@ jobs:
       - name: Rebuild METRICS.md
         run: python3 .github/scripts/build_metrics.py
 
-      - name: Commit if changed
+      - name: Publish snapshot to a review branch
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add METRICS.md metrics/skills-installs.csv metrics/manual.json
           if git diff --staged --quiet; then
             echo "No changes to commit."
-          else
-            git commit -m "chore(metrics): weekly snapshot [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore(metrics): weekly snapshot"
+          git push --force origin "HEAD:refs/heads/metrics/snapshot"
+          echo "Pushed the snapshot to the metrics/snapshot branch. Open a pull request to review and merge it into main."
