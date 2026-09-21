@@ -1,0 +1,81 @@
+name: Merge polylane autofix PRs
+
+# This account has a single owner and no branch protection, so a green
+# polylane autofix PR that nobody merges in the review window stays open
+# indefinitely. This job merges polylane's own autofix PRs once they have
+# been green and untouched for 24h. Any human review or comment on the PR
+# cancels the merge. Runs every 12h; trigger manually with workflow_dispatch.
+
+on:
+  schedule:
+    - cron: '0 2,14 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+  checks: read
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge stale green autofix pull requests
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MIN_AGE_HOURS: '24'
+        run: |
+          set -euo pipefail
+
+          REPO="${GITHUB_REPOSITORY}"
+          BOT_AUTHORS='^(polylane\[bot\]|github-actions\[bot\]|dependabot\[bot\])$'
+          NOW_EPOCH="$(date -u +%s)"
+          echo "Reconciling open autofix pull requests in ${REPO} (min age ${MIN_AGE_HOURS}h)"
+
+          gh pr list --repo "${REPO}" --state open --limit 100 \
+            --json number,title,author,headRefName,isDraft,mergeable,mergeStateStatus,baseRefName,updatedAt,reviewDecision,reviews,comments,statusCheckRollup \
+            > /tmp/autofix-prs.json
+
+          CANDIDATES="$(
+            jq -c --argjson now "${NOW_EPOCH}" --argjson minAge "${MIN_AGE_HOURS}" --arg bots "${BOT_AUTHORS}" '
+              def checkPassed:
+                (.__typename == "CheckRun" and (.conclusion == "SUCCESS" or .conclusion == "NEUTRAL" or .conclusion == "SKIPPED"))
+                or (.__typename == "CheckSuite" and (.conclusion == "SUCCESS" or .conclusion == "NEUTRAL" or .conclusion == "SKIPPED"))
+                or (.__typename == "StatusContext" and .state == "SUCCESS");
+              ([ .[] | select(
+                   (.author.login == "polylane[bot]")
+                   and (.headRefName | startswith("polylane/autofix/"))
+                   and (.isDraft == false)
+                   and (.baseRefName == "main")
+                   and (.mergeable == "MERGEABLE")
+                   and ((.mergeStateStatus == "CLEAN") or (.mergeStateStatus == "BEHIND"))
+                   and (.reviewDecision != "CHANGES_REQUESTED")
+                   and ([.reviews[] | select((.author.login | test($bots)) | not)] | length == 0)
+                   and ([.comments[] | select((.author.login | test($bots)) | not)] | length == 0)
+                   and ([ ((.statusCheckRollup // [])[] | select(checkPassed | not)) ] | length == 0)
+                   and ((((($now - (.updatedAt | fromdateiso8601)) / 3600) | floor) >= $minAge))
+                 ) ] | sort_by(.updatedAt)
+            ' /tmp/autofix-prs.json
+          )"
+
+          if [ "$(jq 'length' <<<"${CANDIDATES}")" -eq 0 ]; then
+            echo "No eligible autofix pull requests."
+            exit 0
+          fi
+
+          MERGED=0
+          FAILED=0
+          while IFS=$'\t' read -r NUM TITLE HEADREF UPDATED; do
+            echo "Merging #${NUM} (${TITLE}) [branch ${HEADREF}, last updated ${UPDATED}]"
+            if gh pr merge "${NUM}" --repo "${REPO}" --squash --quiet; then
+              echo "Merged #${NUM}"
+              MERGED=$((MERGED + 1))
+              gh api -X DELETE "repos/${REPO}/git/refs/heads/${HEADREF}" >/dev/null 2>&1 || true
+            else
+              echo "::error::Failed to merge #${NUM} (${TITLE}); it stays open and is retried next run"
+              FAILED=$((FAILED + 1))
+            fi
+          done < <(jq -r '.[] | [.number, .title, .headRefName, .updatedAt] | @tsv' <<<"${CANDIDATES}")
+
+          echo "Reconcile complete: ${MERGED} merged, ${FAILED} failed."
+          [ "${FAILED}" -eq 0 ]
