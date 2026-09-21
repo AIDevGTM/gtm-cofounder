@@ -13,9 +13,10 @@ This is a living toolkit for the people who take developer tools and AI products
 
 1. Open an **issue** describing the gap or the framework you'd add (which skill, what's missing).
 2. Or open a **PR**:
-   - New skill → `skills/<kebab-name>/SKILL.md` with the standard frontmatter (`name`, `description`) and the standard sections (when to use · framework · decision tree · mistakes · example · 30-minute checklist).
+   - New skill → `skills/NN-<kebab-name>/SKILL.md` with the standard frontmatter (`name`, `description`) and the standard sections (when to use · framework · decision tree · mistakes · example · 30-minute checklist). `NN` is the next two-digit prefix in the sequence (`00`, `01`, `02`, ...); every skill in `skills/` uses a unique prefix, so check the highest one and take the next number.
    - Editing a skill → keep the voice and structure consistent.
-3. Cite your source if a framework comes from published work (we credit **Frankl** and **Czakon** throughout; add others as needed).
+3. A CI check (`.github/workflows/validate.yml`) runs on every PR and push to `main`: it validates each skill's frontmatter against its directory name, rejects duplicate or non-numeric prefixes, and parses every JSON manifest and workflow YAML. Make sure it is green before asking for a review.
+4. Cite your source if a framework comes from published work (we credit **Frankl** and **Czakon** throughout; add others as needed).
 
 ## Not a fit
 
