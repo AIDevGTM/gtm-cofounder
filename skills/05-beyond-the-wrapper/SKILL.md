@@ -65,4 +65,4 @@ For an AI tool, reliability is the whole game, and every buyer has been burned b
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If "just a wrapper" is a fight you're losing and you want help finding the real wedge, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

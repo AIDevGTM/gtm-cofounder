@@ -71,4 +71,4 @@ It is a missing next step, or a concern you did not surface. Do not accept it an
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If deals keep stalling and you want someone in your corner on the actual calls, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

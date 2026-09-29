@@ -77,4 +77,4 @@ Fill every line with something a stranger couldn't guess:
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+Stuck on whether the ICP is right, or seeing two personas pull in different directions? That's worth a human call. Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

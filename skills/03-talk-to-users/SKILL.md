@@ -87,4 +87,4 @@ Those four buckets feed directly into `positioning-and-story` and `value-prop-th
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If you want help standing up a real Technical Advisory Board, or reading what your interviews are actually telling you, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

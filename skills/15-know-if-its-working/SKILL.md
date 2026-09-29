@@ -74,4 +74,4 @@ Is month-2 cohort retention healthy (users come back)?
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If your numbers are telling a story you can't read, get a human to look with you. Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

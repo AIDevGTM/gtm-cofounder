@@ -69,4 +69,4 @@ Spend your effort at the right end.
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If you can't tell whether your value prop actually lands with a buyer, get a human read. Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

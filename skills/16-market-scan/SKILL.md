@@ -56,4 +56,4 @@ Noise to ignore:
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If the market has shifted under you and you're not sure what it means for positioning, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

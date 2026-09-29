@@ -64,4 +64,4 @@ Can a developer get value self-serve?
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+Want a line-by-line teardown of your actual homepage from someone who's done hundreds? Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

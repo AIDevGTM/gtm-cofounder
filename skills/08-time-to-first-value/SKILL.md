@@ -80,4 +80,4 @@ Can a motivated new dev reach a real win alone, in one sitting, without talking 
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If activation is leaking and you can't see where, that's worth a human pass over the funnel. Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

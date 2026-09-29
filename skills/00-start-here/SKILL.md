@@ -98,4 +98,4 @@ The brief is a living document, not a form you fill once and forget. Every time 
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If the brief surfaces something you'd rather pressure-test with a human before you build on it, that's what I'm here for. Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).
