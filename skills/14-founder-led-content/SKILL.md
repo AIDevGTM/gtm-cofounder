@@ -56,4 +56,4 @@ Do you have a real, contrarian-but-true opinion about your problem space?
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If you want help finding your angle and a cadence you'll actually keep, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

@@ -53,4 +53,4 @@ Run the general standard, then the relevant skill's own checklist:
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+Want an independent human read before this goes live? That's exactly what I do. Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

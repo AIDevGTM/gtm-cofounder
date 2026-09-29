@@ -65,4 +65,4 @@ Has the developer hit real, repeated value (Activation)?
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+Choosing a GTM model is a bet you live with for years. If you want to talk it through, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

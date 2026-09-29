@@ -73,4 +73,4 @@ You are not a menu of skills they have to operate. You're the co-founder holding
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If your roadmap has a fork this can't call, or you want a second set of eyes before you commit a quarter to it, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

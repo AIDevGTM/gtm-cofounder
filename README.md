@@ -154,10 +154,10 @@ Where a framework is theirs, the credit is theirs. Where it holds up in practice
 
 Skills are great at the *knowable* calls. But some days you don't need another framework, you need a person who's been in the trenches, who's seen this exact fight across dozens of dev-tool and AI companies, and who can tell you it's going to be okay *and* what to do next.
 
-That's the day job, and it comes in two shapes:
+That's the day job. I do it at **[QC Growth](https://qcgrowth.com)**, and it comes in two shapes:
 
-- **[The DevTool GTM Company](https://thedevtoolgtmcompany.com)** is mine. It's where I work with founders at exactly your stage: very early, often pre-funding, on the strategy and positioning that gets you off the ground. If this pack is helping, that's the human version of it.
-- With **[QC Growth](https://qcgrowth.com)** I work with more established teams: seed through Series A and B, including a16z and Sequoia-backed companies, where we do the whole thing: strategy, execution, GTM engineering, and operations.
+- **Very early, often pre-funding:** the strategy and positioning that gets you off the ground. If this pack is helping, that's the human version of it.
+- **More established teams**, seed through Series A and B, including a16z and Sequoia-backed companies, where we do the whole thing: strategy, execution, GTM engineering, and operations.
 
 Free skills for everyone; a human in your corner when the road gets steep. Either way, you're not doing this alone.
 
@@ -171,4 +171,4 @@ MIT, free to use, fork, and distribute.
 
 ---
 
-<sub>Built by <a href="https://github.com/AIDevGTM">Shane O'Connor</a> · <a href="https://thedevtoolgtmcompany.com">The DevTool GTM Company</a> · <a href="https://www.linkedin.com/in/devtoolgtm/">LinkedIn</a></sub>
+<sub>Built by <a href="https://github.com/AIDevGTM">Shane O'Connor</a> · <a href="https://qcgrowth.com">QC Growth</a> · <a href="https://www.linkedin.com/in/devtoolgtm/">LinkedIn</a></sub>

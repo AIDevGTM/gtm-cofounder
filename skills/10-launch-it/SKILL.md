@@ -75,4 +75,4 @@ Can a stranger get to first value in < 1 hour from docs alone (the weekend test)
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+A launch you only get one shot at is worth a human sanity-check first. Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

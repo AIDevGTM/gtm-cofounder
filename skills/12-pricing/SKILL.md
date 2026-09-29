@@ -89,4 +89,4 @@ Thresholds worth knowing:
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+Pricing is the highest-leverage number you'll set, and the easiest to get wrong alone. Want a human read? Reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

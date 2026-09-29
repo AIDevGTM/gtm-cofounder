@@ -76,4 +76,4 @@ Can you state a problem only you solve, in the user's words?
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+Positioning is the one most worth a second opinion before you ship it everywhere. If you want yours pressure-tested, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

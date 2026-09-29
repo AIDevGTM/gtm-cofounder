@@ -57,4 +57,4 @@ Is your ICP concentrated somewhere specific (a subreddit, a Discord, a conferenc
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
-When a framework can't make the call, that's what a human is for: [The DevTool GTM Company](https://thedevtoolgtmcompany.com).
+If the first users aren't coming and you're out of channels to try, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).
