@@ -44,7 +44,7 @@ When in doubt, the default first move for an early founder is almost always `tal
 
 ## The roadmap file
 
-Save to `docs/gtm-cofounder/gtm-roadmap.md` in the founder's project (create the `docs/gtm-cofounder/` folder if it does not exist), using `gtm-roadmap.template.md` in this repo. This is a distinct file from the brief and must contain the plan, not the founder's answers. Keep it short and living:
+Save to `docs/gtm-cofounder/gtm-roadmap.md` in the founder's project (create the `docs/gtm-cofounder/` folder if it does not exist), using the [bundled roadmap template](assets/gtm-roadmap.template.md) (relative to this skill's directory). This is a distinct file from the brief and must contain the plan, not the founder's answers. Keep it short and living:
 
 - **Diagnosis:** the one bottleneck, in a sentence.
 - **Now:** the single next move, the skill it maps to, and what "done" looks like.

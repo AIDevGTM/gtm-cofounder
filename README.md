@@ -56,6 +56,7 @@ The path above works in any agent that supports the Agent Skills spec (Claude Co
 - **Claude Code (direct):**
   ```bash
   git clone https://github.com/AIDevGTM/gtm-cofounder.git
+  mkdir -p ~/.claude/skills
   cp -r gtm-cofounder/skills/* ~/.claude/skills/
   ```
 - **Claude Code (plugin marketplace)** _(run in the Claude Code CLI):_
@@ -67,7 +68,7 @@ The path above works in any agent that supports the Agent Skills spec (Claude Co
   ```bash
   npx skills add AIDevGTM/gtm-cofounder
   ```
-- **Cursor / Codex / other agents:** copy the `skills/` folder into your agent's skills directory. Each skill is self-contained: one folder, one `SKILL.md`, zero dependencies.
+- **Cursor / Codex / other agents:** copy the individual folders inside `skills/` into your agent's skills directory, keeping each folder's contents together. Each skill is self-contained: one folder with a `SKILL.md` and any supporting templates, zero runtime dependencies.
 
 ---
 
