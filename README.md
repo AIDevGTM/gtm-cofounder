@@ -154,6 +154,7 @@ And it was pressure-tested by founders who used it as design partners and made i
 
 - **Lubos**, founder of *[hey/api](https://heyapi.dev)*
 - **Thibault and Max**, cofounders of *[OpenStatus](https://openstatus.dev)*
+- **Kevin Collins**, founder of *[Echofold](https://echofold.ai)*, whose feedback led to `research-the-market`
 
 Where a framework is theirs, the credit is theirs. Where it holds up in practice, that's the founders who tested it. Where it misses, that's on me.
 
