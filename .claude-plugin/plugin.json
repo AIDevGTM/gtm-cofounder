@@ -1,7 +1,7 @@
 {
   "name": "gtm-cofounder",
-  "version": "1.3.0",
-  "description": "The GTM co-founder you don't have, go-to-market Agent Skills for developer tools and AI products. For founders, early GTM hires, and founding AEs. Grounded in Adam Frankl and Jakub Czakon.",
+  "version": "1.4.0",
+  "description": "The GTM co-founder you don't have, go-to-market Agent Skills for developer tools and AI products. Researches your real market, then builds a prioritized roadmap. For founders, early GTM hires, and founding AEs. Grounded in Adam Frankl and Jakub Czakon.",
   "author": {
     "name": "Shane O'Connor",
     "url": "https://qcgrowth.com"
@@ -20,6 +20,7 @@
     "positioning",
     "developer-marketing",
     "agent-skills",
-    "claude-skills"
+    "claude-skills",
+    "market-research"
   ]
 }
