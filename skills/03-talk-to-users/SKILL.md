@@ -30,6 +30,7 @@ A TAB call is **not a demo and not a sales call.** It's an interview. You never 
 **Recruitment (it's a numbers game)**
 - Personalize every message, never batch-and-blast
 - Lead with *their* problem, not your startup
+- Start from "the problem in their words" in `docs/gtm-cofounder/market-research.md`: those are real people who already posted about the pain, with links
 - Max 4 sentences
 - ~10% reply → plan ~500 outreaches for ~50 members
 - No payment: early access, influence, swag
@@ -80,7 +81,7 @@ Those four buckets feed directly into `positioning-and-story` and `value-prop-th
 ## Your next 30 minutes
 
 - [ ] List every persona from `who-is-this-for`; you need TAB members for each.
-- [ ] Find 10 people who've *publicly posted about the problem* (HN, Reddit, GitHub issues, X).
+- [ ] Find 10 people who've *publicly posted about the problem* (HN, Reddit, GitHub issues, X). If you ran `research-the-market`, your first list is already in `market-research.md`.
 - [ ] Send 10 personalized, 4-sentence, problem-first invites. Today.
 - [ ] Lock your 7 questions (3 above + 4 tailored). Do not exceed 7.
 - [ ] After 3 calls, fill the Pains/Gains/Jobs/Changes table with real quotes.
