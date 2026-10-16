@@ -79,3 +79,4 @@ Snyk's core loop is the workflow loop run to perfection: the product's *normal j
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*). The loop catalog is adapted from Jonathan Reimer's *[Growing Developer Tools: A Handbook](https://reimer.me/growing-devtools)*, with the loop model from Brian Balfour and Casey Winters (Reforge).
+If you're not sure which loop fits your product, or the one you built isn't compounding, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).

@@ -51,14 +51,14 @@ Then:
 
 That is the payoff: an honest diagnosis of the GTM problem to work on **now**, what to **not** work on yet, and your **single next move**.
 
-**Why this beats generic AI marketing advice.** Tell a normal chatbot "I have 800 GitHub stars but almost nobody pays" and you get ten marketing tactics. GTM Co-Founder does the opposite. It tells you that you do not yet know whether people activate, come back, or would ever pay, so reaching for tactics now is the wrong move. Your next step is not "post more," it is the one piece of evidence you need to go and get. The value is not more ideas. It is knowing what to do next.
+**Why this beats generic AI marketing advice.** Tell a normal chatbot "I have 800 GitHub stars but almost nobody pays" and you get ten marketing tactics. GTM Co-Founder does the opposite. It tells you that you do not yet know whether people activate, come back, or would ever pay, so reaching for tactics now is the wrong move. Your next step is not "post more," it is the one piece of evidence you need to go and get. The value is not more ideas. It is knowing what to do next, grounded in your real market rather than a textbook.
 
 ### Other ways to install
 
 The path above works in any agent that supports the Agent Skills spec (Claude Code, Cursor, Codex, Windsurf, Antigravity). Reach for these only if you want the skills installed so your agent auto-triggers them, or you are not in a coding agent at all.
 
-- **No coding agent (ChatGPT, Claude, plain chat):** open any skill, copy the text, paste it in, and say "apply this to my product: [one line on what you're building]." Start with `00-start-here`, then `01-strategy-and-roadmap`.
-- **No terminal:** grab a zip from the [latest release](https://github.com/AIDevGTM/gtm-cofounder/releases/latest). In the Claude apps, go to **Customize → Skills → Create skill** and upload a skill's zip. For Claude Code, unzip and move the folders into `~/.claude/skills/`.
+- **No coding agent (ChatGPT, Claude, plain chat):** open any skill, copy the text, paste it in, and say "apply this to my product: [one line on what you're building]." Start with `00-start-here`, then `research-the-market` (turn on web search if your chat has it), then `01-strategy-and-roadmap`.
+- **No terminal:** grab a skill's zip (or `gtm-cofounder-skills.zip` for all of them) from the [latest release](https://github.com/AIDevGTM/gtm-cofounder/releases/latest). In the Claude apps, go to **Customize → Skills → Create skill** and upload a skill's zip. For Claude Code, unzip and move the folders into `~/.claude/skills/`.
 - **Claude Code (direct):**
   ```bash
   git clone https://github.com/AIDevGTM/gtm-cofounder.git
