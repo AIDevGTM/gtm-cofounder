@@ -32,7 +32,9 @@ Then **Evaluation** decides everything (see `know-if-its-working`): can a new de
 
 ## How to pick the channel (don't do all of them)
 
-From `talk-to-users` question 7 ("where do you go to stay current?"), you already have the answer. Rank channels by **where your specific ICP is**, and go deep on **one** before adding a second.
+You should already have two sources: the ranked watering holes in `docs/gtm-cofounder/market-research.md` (from `research-the-market`), and what real users told you in `talk-to-users` question 7 ("where do you go to stay current?"). Where they agree, that's your channel. Where they disagree, trust the users. If there's no research file yet, or it's more than a quarter old, run `research-the-market` first: picking channels from memory is how you end up "posting more" in rooms your ICP isn't in.
+
+Rank channels by **where your specific ICP is**, and go deep on **one** before adding a second. Always by name: a specific subreddit, Discord, newsletter, or GitHub issue thread, never "Reddit" or "communities".
 
 ```
 Is your ICP concentrated somewhere specific (a subreddit, a Discord, a conference, a tag)?
@@ -50,8 +52,8 @@ Is your ICP concentrated somewhere specific (a subreddit, a Discord, a conferenc
 
 ## Your next 30 minutes
 
-- [ ] Write down the 3 exact places your ICP discovers tools (pull from `talk-to-users` Q7).
-- [ ] List 20 people who publicly posted about your problem. DM 5 today, helpful, not pitchy.
+- [ ] Write down the 3 exact places your ICP discovers tools, by name and link (from `market-research.md`, checked against `talk-to-users` Q7).
+- [ ] List 20 people who publicly posted about your problem (start from "the problem in their words" in `market-research.md`). DM 5 today, helpful, not pitchy.
 - [ ] Turn your best 5 TAB members into your first 5 users this week.
 - [ ] Confirm a new user can hit first value **in under an hour**. If not, that's the real priority.
 

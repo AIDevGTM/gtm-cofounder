@@ -13,6 +13,10 @@ description: "Plan a developer launch (Show HN, Reddit, Product Hunt) that earns
 
 The bar is **usefulness + honesty**, not polish. Developers will test your claims and read your code. Show up as a real engineer sharing real work, be present to answer everything, and never, ever fake it. One genuine launch beats ten hype posts.
 
+## First, learn from launches like yours
+
+Before you pick a venue, read "How comparable products launched" in `docs/gtm-cofounder/market-research.md` (run `research-the-market` if it's missing). Where did products like yours launch, what got upvoted, and what got flamed in the comments? Not every dev tool belongs on Product Hunt, and some belong in a single niche community long before HN. Let the evidence pick the rooms, then use the anatomy below for each one.
+
 ## Framework: Show HN anatomy (Czakon / Tailscale lessons)
 
 1. **Title: plain, specific, zero hype.** "Show HN: A faster Postgres migration tool for large tables", not "🚀 The future of database migrations is HERE."
@@ -46,7 +50,7 @@ The bar is **usefulness + honesty**, not polish. Developers will test your claim
 
 ## The coordinated moment (not spam)
 
-A launch is **one prepared moment** across the channels your ICP actually uses (from `first-50-users`): HN, your own network, and the relevant communities, all on the same day, each tailored to the room. It is not the same copy blasted five places.
+A launch is **one prepared moment** across the channels your ICP actually uses (named in `market-research.md` and chosen in `first-50-users`): HN, your own network, and the specific communities and newsletters your ICP reads, all on the same day, each tailored to the room and its self-promo rules. It is not the same copy blasted five places.
 
 ## Decision tree: are you ready to launch?
 
@@ -71,7 +75,7 @@ Can a stranger get to first value in < 1 hour from docs alone (the weekend test)
 - [ ] Draft your Show HN **title**, plain, specific, no hype. Say it out loud; if it sounds like an ad, redo it.
 - [ ] Write the **first comment**: why · how · what's hard · how to try. This is the real work.
 - [ ] Confirm the weekend test passes (see `know-if-its-working`). If not, delay.
-- [ ] Pick the ONE day, block 4 hours to reply, and line up the 2-3 rooms your ICP is actually in.
+- [ ] Pick the ONE day, block 4 hours to reply, and line up the 2-3 rooms your ICP is actually in, by name, from `market-research.md`.
 
 ---
 Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).

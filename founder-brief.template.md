@@ -8,7 +8,9 @@
 > The "Go deeper" questions are optional: fill them in over time, or let each skill
 > ask for the ones it needs. Tag each answer `[validated]` (a real user who is not a
 > friend told you) or `[assumption]` (your best guess for now). Assumptions are fine
-> to start with. Send them to the `talk-to-users` skill to make them real.
+> to start with. Send them to the `talk-to-users` skill to make them real. Lines the
+> `research-the-market` skill updates from public evidence are tagged `[researched]`:
+> good enough to plan around, not yet validated.
 
 ## Core five (answer these first)
 

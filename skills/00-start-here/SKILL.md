@@ -18,12 +18,12 @@ And the part that matters most: separate what you have **validated** (a real use
 ## How to run this (for the agent)
 
 - **Ask the five core questions one at a time, and nothing else.** One question, wait for the answer, let it shape the next. It should feel like a conversation with a co-founder, not a form to fill in. Never paste multiple questions at once. (If the founder would rather see all five and answer in one go, give them the list, but default to one at a time.)
-- Write the brief from those five, then move to `strategy-and-roadmap`. The founder should get a diagnosis and a next move before they answer anything optional.
+- Write the brief from those five, then move to `research-the-market`, then `strategy-and-roadmap`. The founder should get research and a diagnosis before they answer anything optional. The interview only captures what they already know; the research is what keeps the plan from just handing their answers back.
 - **Pull the deeper questions just-in-time.** When a later skill needs more (positioning needs the villain, pricing needs the buyer), ask only the two or three relevant ones right then, and say what answering unlocks. Never front-load them.
 - For every substantive answer, ask: "have you heard a real user say this, or is that your read for now?" Tag it `[validated]` or `[assumption]`.
 - "Zero users interviewed" is a valid and revealing answer. Note it plainly, no judgment, and flag `talk-to-users` as the highest-priority next step.
 - Keep the founder's own words. Don't polish their pain into marketing language.
-- Once the core brief is written, do **not** jump into a task or start prescribing work. Hand off to `strategy-and-roadmap`, or ask the founder what they want to tackle. Offer, never impose.
+- Once the core brief is written, do **not** jump into a task or start prescribing work. Hand off to `research-the-market` (then `strategy-and-roadmap`), or ask the founder what they want to tackle. Offer, never impose.
 
 ## First, read what they've already shipped (only if you're in their project)
 
@@ -93,6 +93,7 @@ The brief is a living document, not a form you fill once and forget. Every time 
 - [ ] Answer just the **core five**. Rough and honest beats polished and fake.
 - [ ] Tag each answer `[validated]` or `[assumption]`.
 - [ ] Save it as `docs/gtm-cofounder/founder-brief.md` in your project so your agent reads it.
+- [ ] Run `research-the-market` so the agent finds what you didn't tell it: where your users actually are and how products like yours launched.
 - [ ] Run `01-strategy-and-roadmap` to get your diagnosis and first move. Don't answer the optional questions yet.
 - [ ] Answer deeper questions later, only when a skill asks and tells you what it unlocks.
 

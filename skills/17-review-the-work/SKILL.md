@@ -1,6 +1,6 @@
 ---
 name: review-the-work
-description: "Before showing the user any substantive GTM deliverable (positioning, value prop, homepage, launch post, pricing, sales script, the brief or roadmap), stress-test it against the standard as an independent critic, because the agent that wrote it is the worst judge of whether it is good. Use as a gate right before presenting work, or when the user asks whether something is actually strong."
+description: "Before showing the user any substantive GTM deliverable (positioning, value prop, homepage, launch post, pricing, sales script, the brief, the market research, or the roadmap), stress-test it against the standard as an independent critic, because the agent that wrote it is the worst judge of whether it is good. Use as a gate right before presenting work, or when the user asks whether something is actually strong."
 ---
 
 # Review the work (the self-check gate)
@@ -28,6 +28,7 @@ Steal the one rule that makes this work: **the author may submit the work, the a
 - **The developer is the hero, not the product.** If the founder's tool is the hero of the sentence, rewrite it.
 - **It speaks to the real ICP** from the brief, not to "developers." A message for everyone lands on no one.
 - **It rests on validated facts.** Anything load-bearing that is still `[assumption]` is flagged out loud, not smuggled in as truth.
+- **Every outside fact is real and linked.** A community, a member count, a launch result, a quote: each one has a link you actually checked. If you can't point to the source, cut it or mark it unknown. An invented fact the founder acts on is the worst failure in this pack.
 - **A skeptical developer could not immediately prove it false.** Developers test claims and find the truth. If a dev would find the failing case in thirty seconds, you have not passed.
 - **Human voice.** Reads like a person wrote it. No em-dashes, no AI tells.
 
@@ -42,7 +43,8 @@ Run the general standard, then the relevant skill's own checklist:
 - **Pricing** (`pricing`): anchored to a value metric, not a guessed number. The buyer could justify it to whoever holds the budget.
 - **Founder-led sales** (`founder-led-sales`): passes the four-part deal test. Does not mistake a friendly free user for a buyer.
 - **The brief** (`start-here`): strongest asset at the top, `[validated]` / `[assumption]` tags intact, in the founder's own words.
-- **The roadmap** (`strategy-and-roadmap`): opens with a one-line Diagnosis, then Now / Next / Later. It is a plan, not a re-saved copy of the brief.
+- **The market research** (`research-the-market`): leads with what the founder didn't say. Venues are named and linked, ranked by fit not size, with self-promo rules noted. Nothing is filled in from memory.
+- **The roadmap** (`strategy-and-roadmap`): opens with a one-line Diagnosis, then What the research added, then Now / Next / Later. It is a plan, not a re-saved copy of the brief. The founder-facing test: would they read it and learn something they didn't tell you? If every move traces back to their own answers, it fails. Channel and launch moves name specific venues, not categories.
 
 ## Your next 30 minutes
 
