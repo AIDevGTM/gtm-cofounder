@@ -1,6 +1,7 @@
 # GTM roadmap
 
 > Your plan, not a pile of tactics. Your agent writes this from your `docs/gtm-cofounder/founder-brief.md`
+> and `docs/gtm-cofounder/market-research.md`
 > (via the `strategy-and-roadmap` skill) and reads it at the start of every session, so
 > you always know the one next move. Keep it short. Update it as you learn.
 
@@ -8,6 +9,12 @@
 
 > The single biggest thing between you and your next 10 users or your first dollar. One sentence.
 >
+
+## What the research added
+
+> The two or three things the agent found that you didn't tell it, and how they shaped this plan. Each with a link.
+
+-
 
 ## Now (the one move)
 

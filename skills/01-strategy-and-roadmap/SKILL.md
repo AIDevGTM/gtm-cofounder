@@ -1,11 +1,11 @@
 ---
 name: strategy-and-roadmap
-description: After the founder brief, turn it into an honest diagnosis and a prioritized, stage-aware GTM roadmap saved as docs/gtm-cofounder/gtm-roadmap.md. This is the hub the user returns to every session to see where they are and the single next move. Use right after start-here, whenever the user doesn't know what to work on next, wants a plan instead of a one-off task, or is drowning in disconnected tactics.
+description: After the founder brief and the market research, turn them into an honest diagnosis and a prioritized, stage-aware GTM roadmap saved as docs/gtm-cofounder/gtm-roadmap.md. This is the hub the user returns to every session to see where they are and the single next move. Use right after start-here, whenever the user doesn't know what to work on next, wants a plan instead of a one-off task, or is drowning in disconnected tactics.
 ---
 
 # Strategy and roadmap (your plan)
 
-> A pile of tactics is not a go-to-market. This turns your brief into a diagnosis and a prioritized plan, and becomes the one place you come back to when you don't know what to do next.
+> A pile of tactics is not a go-to-market. This turns your brief and the market research into a diagnosis and a prioritized plan, and becomes the one place you come back to when you don't know what to do next.
 
 **Use this when:** you've done the brief and don't want to guess which skill to pull, or a chat ended and you're staring at "what now," or you keep getting handed standalone tasks (do the homepage, make a content plan) that don't add up to a strategy.
 
@@ -13,22 +13,24 @@ description: After the founder brief, turn it into an honest diagnosis and a pri
 
 The other skills are moves. This is the game plan that decides which move, and when. It does three things:
 
-1. **Diagnose.** Read the brief honestly. Where are you actually strong? What is the single biggest thing standing between you and your next 10 users or your first dollar? Name one bottleneck, not five.
+1. **Diagnose.** Read the brief and the research honestly. Where are you actually strong? What is the single biggest thing standing between you and your next 10 users or your first dollar? Name one bottleneck, not five.
 2. **Prioritize by stage.** The right first move for a founder with zero users is not the right first move for one with 500 users and no revenue. Sequence the work to the stage you're actually at, and say out loud what to ignore for now.
 3. **Persist.** Write it to `docs/gtm-cofounder/gtm-roadmap.md` so it survives the chat. Next session you read the roadmap, not a dead thread.
 
 ## How to run this (for the agent)
 
-- **Read `docs/gtm-cofounder/founder-brief.md` first.** If it does not exist, run `start-here` before this. Everything here keys off the brief.
+- **Read `docs/gtm-cofounder/founder-brief.md` and `docs/gtm-cofounder/market-research.md` first.** If the brief does not exist, run `start-here` before this. If the research does not exist, run `research-the-market` before this, or, if the founder wants to skip it, say plainly that the plan will only reflect what they told you and mark it brief-only.
+- **The plan must add something they didn't bring.** A roadmap that only rearranges the founder's own answers has failed, however well organized. At least one move in Now or Next has to come from the research (a venue, a launch pattern, a segment, an opening), and the roadmap names what the research changed.
+- **Name places, not categories.** Any channel, launch, or outreach move names the specific venue from the research: "post in the subreddit the research ranked first, inside its weekly self-promo thread, then pitch the two newsletters it found", with the names and links, not "post on Reddit and reach out to newsletters".
 - **Lead with a diagnosis, not a task list.** Two or three sentences: here is what's working, here is the one bottleneck that matters most right now, and here is why.
 - **Be willing to tell them to do almost nothing.** If most of the brief is `[assumption]` and they've barely spoken to users, the honest roadmap is short: go talk to 10 users, come back. Do not pad it to look thorough.
 - **Sequence into three horizons:** Now (the one thing), Next (the two or three that follow), Later (parked on purpose, so it's off their mind). Map each item to a skill.
 - **Offer, never impose.** Present the roadmap and ask what they want to start with. Do not assign or begin a task they have not chosen. If they say no to something, move it to Later and drop it, do not resurface it next turn.
-- **Write the plan, not a copy of the brief.** `docs/gtm-cofounder/gtm-roadmap.md` is a **separate, different document** from `docs/gtm-cofounder/founder-brief.md`. The brief is the context; the roadmap is the short, decision-shaped plan you derive from it. Never re-save the brief's contents into the roadmap. If `docs/gtm-cofounder/gtm-roadmap.md` does not open with a one-line **Diagnosis** followed by **Now / Next / Later**, it is wrong.
+- **Write the plan, not a copy of the brief.** `docs/gtm-cofounder/gtm-roadmap.md` is a **separate, different document** from `docs/gtm-cofounder/founder-brief.md`. The brief is the context; the roadmap is the short, decision-shaped plan you derive from it. Never re-save the brief's contents into the roadmap. If `docs/gtm-cofounder/gtm-roadmap.md` does not open with a one-line **Diagnosis**, then **What the research added**, then **Now / Next / Later**, it is wrong.
 
 ## Stage decides the first move
 
-Use the brief's stage and evidence answers to pick the starting point. A rough guide, not a law:
+Use the brief's stage and evidence answers to pick the starting point, and the research to make the move specific. A rough guide, not a law:
 
 | Where they are | The bottleneck is usually | Start with |
 |----------------|---------------------------|------------|
@@ -47,6 +49,7 @@ When in doubt, the default first move for an early founder is almost always `tal
 Save to `docs/gtm-cofounder/gtm-roadmap.md` in the founder's project (create the `docs/gtm-cofounder/` folder if it does not exist), using the [bundled roadmap template](assets/gtm-roadmap.template.md) (relative to this skill's directory). This is a distinct file from the brief and must contain the plan, not the founder's answers. Keep it short and living:
 
 - **Diagnosis:** the one bottleneck, in a sentence.
+- **What the research added:** the two or three things from `market-research.md` that shaped this plan and that the founder didn't tell you, each with its link.
 - **Now:** the single next move, the skill it maps to, and what "done" looks like.
 - **Next:** two or three moves queued behind it.
 - **Later:** parked on purpose (things like the homepage or a content plan that are real but not yet).
@@ -56,7 +59,7 @@ Save to `docs/gtm-cofounder/gtm-roadmap.md` in the founder's project (create the
 
 This is the fix for "the chat ended and I don't know what to do next." Start each session here:
 
-1. Read `docs/gtm-cofounder/founder-brief.md` and `docs/gtm-cofounder/gtm-roadmap.md`.
+1. Read `docs/gtm-cofounder/founder-brief.md`, `docs/gtm-cofounder/market-research.md`, and `docs/gtm-cofounder/gtm-roadmap.md`.
 2. Say where things stand and the one next move, in a sentence or two.
 3. Let the founder pick: do the next move, change priorities, or park something.
 4. After the work, update `docs/gtm-cofounder/gtm-roadmap.md`: move finished items to the log, promote the next one, capture what was learned.
@@ -66,6 +69,7 @@ You are not a menu of skills they have to operate. You're the co-founder holding
 ## Your next 30 minutes
 
 - [ ] Make sure `docs/gtm-cofounder/founder-brief.md` exists. If not, run `start-here`.
+- [ ] Make sure `docs/gtm-cofounder/market-research.md` exists. If not, run `research-the-market`.
 - [ ] Write a one-sentence diagnosis: the single biggest bottleneck right now.
 - [ ] Fill `docs/gtm-cofounder/gtm-roadmap.md`: one Now, a short Next, an honest Later.
 - [ ] Pick the Now move and open its skill. Just that one.

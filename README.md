@@ -16,7 +16,7 @@ That's what this is: **the GTM co-founder you don't have (yet)**, a full set of 
 
 You don't have to figure this part out alone anymore.
 
-**Answer a set of questions once (about 15 minutes), and your agent builds you a prioritized GTM roadmap, then works it with you one move at a time: positioning, first users, launch, pricing, in the order that matters for your stage.**
+**Answer a set of questions once (about 15 minutes). Your agent researches your actual market (where your users already are, how products like yours launched), builds you a prioritized GTM roadmap, then works it with you one move at a time: positioning, first users, launch, pricing, in the order that matters for your stage.**
 
 Not marketing tactics or SEO skills. This is the strategy half of go-to-market: who it's for, why they'd pay, and how to land your first users. For the person who can build or sell almost anything, but freezes on that.
 
@@ -41,18 +41,24 @@ If your agent cannot fetch the repo from a link, clone it first with `git clone 
 
 Then tell it:
 
+> Run research-the-market.
+
+This is where it goes past what you told it. The agent searches the web for the specific communities, newsletters, and GitHub threads where your users already talk about this problem, how comparable products launched and what got them their first users, and the rivals and openings you didn't mention. Every finding comes with a link, saved to `docs/gtm-cofounder/market-research.md`.
+
+Then:
+
 > Run 01-strategy-and-roadmap.
 
 That is the payoff: an honest diagnosis of the GTM problem to work on **now**, what to **not** work on yet, and your **single next move**.
 
-**Why this beats generic AI marketing advice.** Tell a normal chatbot "I have 800 GitHub stars but almost nobody pays" and you get ten marketing tactics. GTM Co-Founder does the opposite. It tells you that you do not yet know whether people activate, come back, or would ever pay, so reaching for tactics now is the wrong move. Your next step is not "post more," it is the one piece of evidence you need to go and get. The value is not more ideas. It is knowing what to do next.
+**Why this beats generic AI marketing advice.** Tell a normal chatbot "I have 800 GitHub stars but almost nobody pays" and you get ten marketing tactics. GTM Co-Founder does the opposite. It tells you that you do not yet know whether people activate, come back, or would ever pay, so reaching for tactics now is the wrong move. Your next step is not "post more," it is the one piece of evidence you need to go and get. The value is not more ideas. It is knowing what to do next, grounded in your real market rather than a textbook.
 
 ### Other ways to install
 
 The path above works in any agent that supports the Agent Skills spec (Claude Code, Cursor, Codex, Windsurf, Antigravity). Reach for these only if you want the skills installed so your agent auto-triggers them, or you are not in a coding agent at all.
 
-- **No coding agent (ChatGPT, Claude, plain chat):** open any skill, copy the text, paste it in, and say "apply this to my product: [one line on what you're building]." Start with `00-start-here`, then `01-strategy-and-roadmap`.
-- **No terminal:** grab a zip from the [latest release](https://github.com/AIDevGTM/gtm-cofounder/releases/latest). In the Claude apps, go to **Customize → Skills → Create skill** and upload a skill's zip. For Claude Code, unzip and move the folders into `~/.claude/skills/`.
+- **No coding agent (ChatGPT, Claude, plain chat):** open any skill, copy the text, paste it in, and say "apply this to my product: [one line on what you're building]." Start with `00-start-here`, then `research-the-market` (turn on web search if your chat has it), then `01-strategy-and-roadmap`.
+- **No terminal:** grab a skill's zip (or `gtm-cofounder-skills.zip` for all of them) from the [latest release](https://github.com/AIDevGTM/gtm-cofounder/releases/latest). In the Claude apps, go to **Customize → Skills → Create skill** and upload a skill's zip. For Claude Code, unzip and move the folders into `~/.claude/skills/`.
 - **Claude Code (direct):**
   ```bash
   git clone https://github.com/AIDevGTM/gtm-cofounder.git
@@ -74,15 +80,18 @@ The path above works in any agent that supports the Agent Skills spec (Claude Co
 
 ## The skills
 
-### 0 · Start here: brief, then plan (do this first)
+### 0 · Start here: brief, research, then plan (do this first)
 
-Two one-time steps set up everything else. First, the **founder brief**: answer just **five core questions** and the agent writes a `docs/gtm-cofounder/founder-brief.md` it reads before every other skill, so "sharpen your ICP" means *your* ICP and "find your villain" means *your* villain, not a textbook's. If you run it inside your project, it reads your repo first (README, recent commits, PR titles, open issues) to pre-fill the brief with what you've actually shipped, so the advice is specific from the first minute instead of generic. The rest of the intake is optional and answered as you go: each skill asks for the deeper questions it needs, when it needs them, and tells you what answering unlocks, so you get value in minutes instead of after a long form. It separates what you've **validated** with real users from what you're still **assuming**, and routes the assumptions to `talk-to-users` so the brief gets truer over time instead of ossifying a guess.
+Three one-time steps set up everything else. First, the **founder brief**: answer just **five core questions** and the agent writes a `docs/gtm-cofounder/founder-brief.md` it reads before every other skill, so "sharpen your ICP" means *your* ICP and "find your villain" means *your* villain, not a textbook's. If you run it inside your project, it reads your repo first (README, recent commits, PR titles, open issues) to pre-fill the brief with what you've actually shipped, so the advice is specific from the first minute instead of generic. The rest of the intake is optional and answered as you go: each skill asks for the deeper questions it needs, when it needs them, and tells you what answering unlocks, so you get value in minutes instead of after a long form. It separates what you've **validated** with real users from what you're still **assuming**, and routes the assumptions to `talk-to-users` so the brief gets truer over time instead of ossifying a guess.
 
 Then the **roadmap**: the agent turns that brief into an honest diagnosis and a prioritized, stage-aware plan in `docs/gtm-cofounder/gtm-roadmap.md`, the one Now move, what's Next, and what to park for Later. This is the hub you come back to every session, so you never stare at a dead chat wondering what to do next. It sequences the skills for you instead of leaving you to guess which one to trigger.
+
+In between sits the **research**, so the plan is not just your own answers handed back to you. The agent goes out and finds the named places your ICP already sits (ranked by fit, with each room's self-promo rules), how products like yours launched and what worked, the problem in strangers' own words (which doubles as your first outreach list), and the openings you didn't bring. Public evidence gets its own `[researched]` tag: strong enough to plan channels around, never mistaken for a real user telling you so.
 
 | Skill | Reach for it when… |
 |-------|--------------------|
 | **start-here** | Setup, or the agent keeps giving generic advice because it doesn't know your business |
+| **research-the-market** | The plan you got only repeats what you told it, or "post on Reddit and HN" is the best channel idea on the table |
 | **strategy-and-roadmap** | You don't know what to work on next, or you're being handed one-off tasks that don't add up to a plan |
 
 ### Runs throughout (a gate, not a step)

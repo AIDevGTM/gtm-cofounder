@@ -11,6 +11,8 @@ description: Refresh the user's competitive and market context. Re-scan named ri
 
 ## The core idea
 
+`research-the-market` is the first full pass on the market: venues, launches, the problem in public, rivals, openings. This skill is the refresh after that, focused on what changed.
+
 Your `docs/gtm-cofounder/founder-brief.md` captured the market as it was the day you wrote it. Markets don't hold still. A scan re-checks the outside world against your brief and surfaces the deltas: what changed, and which changes actually threaten or help your positioning. Most don't matter. The scan's job is to find the two or three that do, not to produce a competitor spreadsheet.
 
 ## Before you start: can your agent see the web?
