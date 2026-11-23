@@ -80,7 +80,7 @@ Skip these to start. Each skill asks for the ones it needs, when it needs them. 
 
 ## Write the brief
 
-Save the answers to `docs/gtm-cofounder/founder-brief.md` in the founder's project (create the `docs/gtm-cofounder/` folder if it does not exist), using the template in this repo (`founder-brief.template.md`). Keep the `[validated]` / `[assumption]` tags on each answer. This file is the shared memory for every other skill. Write it in plain, human prose, with no em-dashes (use commas, colons, or periods), so it never reads as machine-generated.
+Save the answers to `docs/gtm-cofounder/founder-brief.md` in the founder's project (create the `docs/gtm-cofounder/` folder if it does not exist), using the [bundled founder brief template](assets/founder-brief.template.md) (relative to this skill's directory). Keep the `[validated]` / `[assumption]` tags on each answer. This file is the shared memory for every other skill. Write it in plain, human prose, with no em-dashes (use commas, colons, or periods), so it never reads as machine-generated.
 
 Lead the brief with the **strongest asset** (core question 5) at the very top, so the single most powerful thing this founder has anchors every downstream skill. Founders routinely bury it under modesty or detail. As deeper questions get answered over time, add them to the brief under their category.
 
