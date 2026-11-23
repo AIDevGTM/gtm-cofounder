@@ -128,5 +128,5 @@ Researched: <date> · Mode: web | founder-pasted
 - [ ] Run `strategy-and-roadmap` so the plan is built on the brief *and* the research.
 
 ---
-Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*).
+Built from real dev-tool GTM experience, with frameworks from Adam Frankl (*The Developer-Facing Startup*) and Jakub Czakon (*markepear.dev*). This skill exists because of feedback from **Kevin Collins**, founder of [Echofold](https://echofold.ai), who asked for a co-founder that researches the market instead of reflecting his own answers back.
 If the research turns up an opening you're not sure how to play, reach out to me on [LinkedIn](https://www.linkedin.com/in/devtoolgtm/).
